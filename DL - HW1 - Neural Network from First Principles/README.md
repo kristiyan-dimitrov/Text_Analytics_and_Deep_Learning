@@ -1,5 +1,5 @@
-![CrossEntropy with Sigmoidal Activation](CrossEntropy with Sigmoidal Activation.gif)
+![CrossEntropy with Sigmoidal Activation](CrossEntropy_with_Sigmoidal_Activation.gif)
 
 
-![tanh_Normal Initialization mine](tanh_Normal Initialization mine.gif)
+![tanh_Normal Initialization](tanh_Normal_Initialization.gif)
 
