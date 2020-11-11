@@ -1,0 +1,8 @@
+This is some sample text with some @email addresses.
+Note that in the previous sentence there is the special symbol "@", which is typical of emails.
+However, there is no word in front of it. It would also be problematic if we have @ without anything after it either.
+My regex should capture my own email: kristiyan.t.dimitrov@gmail.com. I need to be careful to capture all the full-stop-separated words;
+as well as the full-stop at the end.
+Here is another email@example.com, just for testing purposes.
+Also, what about kristiyan_dimitrov@mail.com
+ This is some text with dates such as 04/12/2019 or another date being April 20th 2019 or December 23th 2020, or even what we do in Bulgaria which is 23.12.1991

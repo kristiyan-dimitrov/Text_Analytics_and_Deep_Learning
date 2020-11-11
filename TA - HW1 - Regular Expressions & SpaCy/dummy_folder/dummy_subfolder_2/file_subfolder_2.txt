@@ -1,0 +1,2 @@
+Text in subfolder_2 file
+kristiyan@dimitrov.com

@@ -1,0 +1,202 @@
+ascii abbreviated american standard code information interchange character encoding standard electronic communication
+ascii codes represent text computers equipment devices
+modern character encoding schemes based ascii although support many additional characters
+internet assigned numbers authority iana prefers name us ascii character encoding
+ascii one ieee milestones
+ascii developed telegraph code
+first commercial use seven bit teleprinter code promoted bell data services
+work ascii standard began october first meeting american standards association asa american national standards institute ansi subcommittee
+first edition standard published underwent major revision experienced recent update
+compared earlier telegraph codes proposed bell code ascii ordered convenient sorting alphabetization lists added features devices teleprinters
+use ascii format network interchange described
+document formally elevated internet standard
+originally based english alphabet ascii encodes specified characters seven bit integers shown ascii chart
+ninety five encoded characters printable include digits lowercase letters uppercase letters punctuation symbols
+addition original ascii specification included non printing control codes originated teletype machines obsolete although still commonly used carriage return line feed tab codes
+example lowercase would represented ascii encoding binary hexadecimal ninth letter decimal
+control pictures equivalent controls shown exist grey dot otherwise
+american standard code information interchange ascii developed auspices committee american standards association asa called committee later subcommittee later subcommittee working group incits
+asa became united states america standards institute usasi ultimately american national standards institute ansi
+special characters control codes filled ascii published asa leaving code positions without assigned meaning reserved future standardization one unassigned control code
+debate time whether control characters rather lowercase alphabet
+indecision last long may ccitt working party new telegraph alphabet proposed assign lowercase characters sticks international organization standardization tc sc voted october incorporate change draft standard
+task group voted approval change ascii may meeting
+locating lowercase letters sticks caused characters differ bit pattern upper case single bit simplified case insensitive character matching construction keyboards printers
+committee made changes including new characters brace vertical bar characters renaming control characters som became start header soh moving removing others ru removed
+ascii subsequently updated usas usas ansi finally ansi
+revisions ascii standard asa asa approved published nevertheless used ibm display stations ibm display control usas usas ansi ansi ansi ansi ansi incits ansi incits ansi incits ansi incits standard committee also addressed ascii transmitted least significant bit first recorded perforated tape
+proposed track standard magnetic tape attempted deal punched card formats
+bit width subcommittee designed ascii based earlier teleprinter encoding systems
+like character encodings ascii specifies correspondence digital bit patterns character symbols
+graphemes control characters
+allows digital devices communicate process store communicate character oriented information written language
+ascii developed encodings use included alphabetic characters numerical digits special graphic symbols
+include control characters compatible comité consultatif international téléphonique et télégraphique ccitt international telegraph alphabet
+ita standard fieldata early ebcdic codes required ascii
+ita turn based bit telegraph code émile baudot invented patented
+committee debated possibility shift function like ita would allow codes represented six bit code
+shifted code character codes determine choices options following character codes
+allows compact encoding less reliable data transmission error transmitting shift code typically makes long part transmission unreadable
+standards committee decided shifting ascii required least seven bit code
+committee considered eight bit code since eight bits octets would allow two four bit patterns efficiently encode two digits binary coded decimal
+however would require data transmission send eight bits seven could suffice
+committee voted use seven bit code minimize costs associated data transmission
+since perforated tape time could record eight bits one position also allowed parity bit error checking desired
+eight bit machines octets native data type use parity checking typically set eighth bit
+printers high bit used enable italics printing
+internal organization code patterned control codes together graphic codes together ease identification
+first two called ascii sticks positions reserved control characters
+space character come graphics make sorting easier became position hex reason many special signs commonly used separators placed digits
+committee decided important support uppercase character alphabets chose pattern ascii could reduced easily usable character set graphic codes done dec sixbit code
+lowercase letters therefore interleaved uppercase
+keep options available lowercase letters graphics special numeric codes arranged letters letter placed position hex match draft corresponding british standard
+digits prefixed remaining bits correspond respective values binary making conversion binary coded decimal straightforward
+many non alphanumeric characters positioned correspond shifted position typewriters important subtlety based mechanical typewriters electric typewriters
+mechanical typewriters followed standard set remington
+first typewriter shift key shifted values early typewriters omitted using capital letter lowercase letter instead
+pairs became standard became common
+thus ascii
+placed second stick positions corresponding digits adjacent stick
+parentheses could correspond however place corresponding taken space character
+accommodated removing underscore shifting remaining characters corresponded many european typewriters placed parentheses
+discrepancy typewriters led bit paired keyboards notably teletype model used left shifted layout corresponding ascii traditional mechanical typewriters
+electric typewriters notably ibm selectric used somewhat different layout become standard computers following ibm pc especially model thus shift values symbols modern keyboards correspond closely ascii table earlier keyboards
+
+pair also dates
+pairs used keyboards others including
+shift comma
+full stop could used uppercase without unshifting
+however ascii split pair dating
+rearranged mathematical symbols varied conventions commonly
+common characters included notably ½¼ included diacritics international use mathematical use together simple line characters addition common
+symbol used continental europe committee expected would replaced accented french variation placed position hex right letter
+control codes felt essential data transmission start message som end address eoa end message eom end transmission eot
+wru
+ru reserved device control dc synchronous idle sync acknowledge ack
+positioned maximize hamming distance bit patterns
+character order ascii code order also called asciibetical order
+collation data sometimes done order rather standard alphabetical order collating sequence
+main deviations ascii order uppercase come lowercase letters example precedes digits many punctuation marks come letters intermediate order converts uppercase letters lowercase comparing ascii values
+control characters ascii reserves first codes numbers decimal control characters codes originally intended represent printable information rather control devices printers make use ascii provide meta information data streams stored magnetic tape
+example character represents line feed function causes printer advance paper character represents backspace
+refers control characters include carriage return line feed white space non whitespace control characters
+except control characters prescribe elementary line oriented formatting ascii define mechanism describing structure appearance text within document
+schemes markup languages address page document layout formatting
+original ascii standard used short descriptive phrases control character
+ambiguity caused sometimes intentional example character would used slightly differently terminal link data stream sometimes accidental example meaning delete
+probably influential single device interpretation characters teletype model asr printing terminal available paper tape reader punch option
+paper tape popular medium long term program storage less costly ways less fragile magnetic tape
+particular teletype model machine assignments codes control dc also known xon control dc also known xoff delete became de facto standards
+model also notable taking description control code bel meaning audibly alert operator literally unit contained actual bell rang received bel character
+keytop key also showed left arrow symbol ascii character instead underscore noncompliant use code control shift interpreted delete previous character also adopted many early timesharing systems eventually became neglected
+teletype asr equipped automatic paper tape reader received control xoff abbreviation transmit caused tape reader stop receiving control xon transmit caused tape reader resume
+technique became adopted several early computer operating systems handshaking signal warning sender stop transmission impending overflow persists day many systems manual output control technique
+systems control retains meaning control replaced second control resume output
+asr also could configured employ control dc control dc start stop tape punch units equipped function corresponding control character lettering keycap letter tape tape respectively
+delete backspace teletype could move head backwards put key keyboard send bs backspace
+instead key marked sent code del
+purpose key erase mistakes hand typed paper tape operator push button tape punch back type rubout punched holes replaced mistake character intended ignored
+teletypes commonly used less expensive computers digital equipment corporation systems use available key thus del code erase previous character
+dec video terminals default sent del code key marked backspace key marked delete sent escape sequence many terminals sent bs backspace key
+unix terminal driver could use one code erase previous character could set bs del resulting long period annoyance users correct depending terminal using shells allow line editing ksh bash zsh understand
+assumption key sent bs caused control used purposes help prefix command gnu emacs
+escape many control codes given meanings quite different original ones
+escape character esc code example intended originally allow sending control characters literals instead invoking meaning
+meaning escape encountered url encodings language strings systems certain characters reserved meaning
+time meaning co opted eventually changed
+modern use esc sent terminal usually indicates start command sequence usually form called ansi escape code properly control sequence introducer ecma successors beginning esc followed left bracket character
+esc sent terminal often used band character used terminate operation teco vi text editors
+graphical user interface gui windowing systems esc generally causes application abort current operation exit terminate altogether
+end line inherent ambiguity many control characters combined historical usage created problems transferring plain text files systems
+best example newline problem various operating systems
+teletype machines required line text terminated carriage return moves printhead beginning line line feed advances paper one line without moving printhead
+name carriage return comes fact manual typewriter carriage holding paper moved position typebars struck ribbon remained stationary
+entire carriage pushed returned right order position left margin paper next line
+dec operating systems os rt rsx rsts tops etc
+used characters mark end line console device originally teletype machines would work
+time called glass ttys later called crts terminals came along convention well established backward compatibility necessitated continuing convention
+gary kildall created cp inspired command line interface conventions used dec rt
+introduction pc dos ibm hand operating systems used ebcdic instead ascii oriented toward punch card input line printer output concept carriage return meaningless
+ibm pc dos also marketed ms dos microsoft inherited convention virtue loosely based cp windows inherited ms dos
+unfortunately requiring two characters mark end line introduces unnecessary complexity questions interpret character encountered alone
+simplify matters plain text data streams including files multics used line feed lf alone line terminator
+unix unix like systems amiga systems adopted convention multics
+original macintosh os apple dos prodos hand used carriage return cr alone line terminator however since apple replaced operating systems unix based macos operating system use line feed lf well
+radio shack trs also used lone cr terminate lines
+computers attached arpanet included machines running operating systems tops tenex using cr lf line endings machines running operating systems multics using lf line endings machines running operating systems os represented lines character count followed characters line used ebcdic rather ascii
+telnet protocol defined ascii network virtual terminal nvt connections hosts different line ending conventions character sets could supported transmitting standard text format network
+telnet used ascii along cr lf line endings software using conventions would translate local conventions nvt
+file transfer protocol adopted telnet protocol including use network virtual terminal use transmitting commands transferring data default ascii mode
+adds complexity implementations protocols network protocols used mail world wide web systems using nvt cr lf line ending convention
+end file stream pdp monitor pdp successor tops used control sub end file indication input terminal
+operating systems cp tracked file length units disk blocks used control mark end actual text file
+reasons eof end file used colloquially conventionally three letter acronym control instead substitute
+end text code etx also known control inappropriate variety reasons using control code end file analogous ending alphabet serves convenient mnemonic aid
+historically common still prevalent convention uses etx code convention interrupt halt program via input data stream usually keyboard
+library unix conventions null character used terminate text strings null terminated strings known abbreviation asciz asciiz stands zero
+binary oct dec hex abbreviation name null nul null som soh start heading eoa stx start text eom etx end text eot end transmission wru enq enquiry ru ack acknowledgement bell bel bell fe bs backspace ht sk ht horizontal tab lf line feed vtab vt vertical tab ff form feed cr carriage return shift si shift dc dle data link escape dc device control often xon dc device control dc device control often xoff dc device control err nak negative acknowledgement sync syn synchronous idle lem etb end transmission block cancel em end medium ss sub substitute esc escape fs file separator gs group separator rs record separator us unit separator del
+delete representations might used specialist equipment example iso graphics hexadecimal numbers
+printable characters codes hex ehex known printable characters represent letters digits punctuation marks miscellaneous symbols
+printable characters total
+code hex space character denotes space words produced space bar keyboard
+since space character considered invisible graphic rather control character listed table instead previous section
+code fhex corresponds non printable delete del control character therefore omitted chart covered previous section chart
+earlier versions ascii used arrow instead caret ehex left arrow instead underscore fhex
+binary oct dec hex glyph space
+
+less sign
+ack esc character set points represented different character previous versions version draft shown boxed
+points assigned since version otherwise unchanged shown lightly shaded relative legend colours
+ascii first used commercially seven bit teleprinter code american telephone telegraph twx teletypewriter exchange network
+twx originally used earlier five bit ita also used competing telex teleprinter system
+bob bemer introduced features escape sequence
+british colleague hugh mcgregor ross helped popularize work according bemer much code become ascii first called bemer ross code europe
+extensive work ascii bemer called father ascii
+march president lyndon johnson mandated computers purchased united states federal government support ascii stating also approved recommendations secretary commerce luther hodges regarding standards recording standard code information interchange magnetic tapes paper tapes used computer operations
+computers related equipment configurations brought federal government inventory july must capability use standard code information interchange formats prescribed magnetic tape paper tape standards media used
+ascii common character encoding world wide web december utf encoding surpassed utf backward compatible ascii
+computer technology spread throughout world different standards bodies corporations developed many variations ascii facilitate expression non english languages used roman based alphabets
+one could class variations ascii extensions although misuse term represent variants including preserve ascii character map bit range
+furthermore ascii extensions also mislabelled ascii
+bit codes early development ascii intended one several national variants international character code standard
+international standards bodies ratified character encodings iso identical nearly identical ascii extensions characters outside english alphabet symbols used outside united states symbol united kingdom pound sterling
+almost every country needed adapted version ascii since ascii suited needs us countries
+example canada version supported french characters
+many countries developed variants ascii include non english letters
+currency symbols
+etc
+see also yuscii yugoslavia
+would share characters common assign locally useful characters several code points reserved national use
+however four years elapsed publication ascii iso first acceptance international recommendation caused ascii choices national use characters seem de facto standards world causing confusion incompatibility countries begin make assignments code points
+iso iec like ascii bit character set
+make additional codes available code points encoded different characters different countries
+escape codes defined indicate national variant applied piece text rarely used often impossible know variant work therefore character code represented general text processing systems could cope one variant anyway
+bracket brace characters ascii assigned national use code points used accented letters national variants iso iec german french swedish etc
+programmer using national variant iso iec rather ascii write thus read something aäiü ön instead ai trigraphs created solve problem ansi although late introduction inconsistent implementation compilers limited use
+many programmers kept computers us ascii plain text swedish german etc
+example mail usenet contained similar variants middle words something programmers got used
+example swedish programmer mailing another programmer asking go lunch could get jag har sm rg sar answer nä jag har smörgåsar meaning got sandwiches
+bit codes eventually bit later bit computers began replace bit computers norm became common use bit byte store character memory providing opportunity extended bit relatives ascii
+cases developed true extensions ascii leaving original character mapping intact adding additional character definitions first bit characters
+encodings include iscii india viscii vietnam
+although encodings sometimes referred ascii true ascii defined strictly ansi standard
+early home computer systems developed bit character sets containing line drawing game glyphs often filled control characters graphics
+kaypro cp computers used upper characters greek alphabet
+petscii code commodore international used bit systems probably unique among post codes based ascii instead common ascii found zx spectrum computer
+atari bit computers galaksija computers also used ascii variants
+ibm pc defined code page replaced control characters graphic symbols smiley faces mapped additional graphic characters upper positions
+operating systems dos supported code pages manufacturers ibm pcs supported hardware
+digital equipment corporation developed multinational character set dec mcs use popular vt terminal one first extensions designed international languages block graphics
+macintosh defined mac os roman postscript also defined set contained international letters typographic punctuation marks instead graphics like modern character sets
+iso iec standard derived dec mcs finally provided standard systems copied least accurately copied ascii many substitutions
+popular extension designed microsoft windows often mislabeled iso added typographic punctuation marks needed traditional text printing
+iso windows original bit ascii common character encodings utf became common
+iso iec introduced additional control codes defined hexadecimal range part extending bit ascii encoding become bit system
+unicode unicode iso iec universal character set ucs much wider array characters various encoding forms begun supplant iso iec ascii rapidly many environments
+ascii limited characters unicode ucs support characters separating concepts unique identification using natural numbers called code points encoding bit binary formats called utf utf utf
+ascii incorporated unicode character set first symbols bit ascii characters numeric codes sets
+allows utf backward compatible bit ascii utf file containing ascii characters identical ascii file containing sequence characters
+even importantly forward compatibility ensured software recognizes bit ascii characters special alter bytes highest bit set often done support bit ascii extensions iso preserve utf data unchanged
+ascii asteroid named character encoding ascii ascii art ascii ribbon campaign basic latin unicode block ascii subset unicode extended ascii html decimal character rendering list unicode characters jargon file glossary computer programmer slang includes list common slang names ascii characters list computer character sets alt codes
+
+

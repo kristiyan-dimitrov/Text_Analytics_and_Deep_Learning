@@ -1,0 +1,124 @@
+diffusely reflected sunlight relative various surface conditions albedo meaning whiteness measure diffuse reflection solar radiation total solar radiation measured scale corresponding black body absorbs incident radiation corresponding body reflects incident radiation
+surface albedo defined ratio radiosity irradiance flux per unit area received surface
+proportion reflected determined properties surface also spectral angular distribution solar radiation reaching earth surface
+factors vary atmospheric composition geographic location time see position sun
+bi hemispherical reflectance calculated single angle incidence given position sun albedo directional integration reflectance solar angles given period
+temporal resolution may range seconds obtained flux measurements daily monthly annual averages
+unless given specific wavelength spectral albedo albedo refers entire spectrum solar radiation
+due measurement constraints often given spectrum solar energy reaches surface μm
+spectrum includes visible light μm explains surfaces low albedo appear dark trees absorb radiation whereas surfaces high albedo appear bright snow reflects radiation
+albedo important concept climatology astronomy environmental management part leadership energy environmental design leed program sustainable rating buildings
+average albedo earth upper atmosphere planetary albedo cloud cover widely varies locally across surface different geological environmental features
+term albedo introduced optics johann heinrich lambert work photometria
+sample albedos surface typicalalbedo fresh asphalt open ocean worn asphalt conifer forest summer deciduous forest bare soil green grass desert sand new concrete ocean ice fresh snow albedo visible light falls within range fresh snow charcoal one darkest substances
+deeply shadowed cavities achieve effective albedo approaching zero black body
+seen distance ocean surface low albedo forests whereas desert areas highest albedos among landforms
+land areas albedo range
+average albedo earth
+far higher ocean primarily contribution clouds
+mean annual clear sky total sky albedo earth surface albedo regularly estimated via earth observation satellite sensors nasa modis instruments board terra aqua satellites ceres instrument suomi npp jpss
+amount reflected radiation measured single direction satellite directions mathematical model used translate sample set satellite reflectance measurements estimates directional hemispherical reflectance bi hemispherical reflectance
+calculations based bidirectional reflectance distribution function brdf describes reflectance given surface depends view angle observer solar angle
+bdrf facilitate translations observations reflectance albedo
+earth average surface temperature due albedo greenhouse effect currently
+earth frozen entirely hence reflective average temperature planet would drop
+continental land masses became covered glaciers mean temperature planet would drop
+contrast entire earth covered water called ocean planet average temperature planet would rise almost
+white sky black sky blue sky albedo land surfaces shown albedo particular solar zenith angle approximated proportionate sum two terms directional hemispherical reflectance solar zenith angle sometimes referred black sky albedo bi hemispherical reflectance sometimes referred white sky albedo
+proportion direct radiation given solar angle proportion diffuse illumination actual albedo also called blue sky albedo given formula important allows albedo calculated given illumination conditions knowledge intrinsic properties surface
+albedos planets satellites minor planets asteroids used infer much properties
+study albedos dependence wavelength lighting angle phase angle variation time composes major part astronomical field photometry
+small far objects cannot resolved telescopes much know comes study albedos
+example absolute albedo indicate surface ice content outer solar system objects variation albedo phase angle gives information regolith properties whereas unusually high radar albedo indicative high metal content asteroids
+enceladus moon saturn one highest known albedos body solar system albedo
+another notable high albedo body eris albedo
+many small objects outer solar system asteroid belt low albedos
+typical comet nucleus albedo
+dark surface thought indicative primitive heavily space weathered surface containing organic compounds
+overall albedo moon measured around strongly directional non lambertian displaying also strong opposition effect
+although reflectance properties different terrestrial terrains typical regolith surfaces airless solar system bodies
+two common albedos used astronomy band geometric albedo measuring brightness illumination comes directly behind observer bond albedo measuring total proportion electromagnetic energy reflected
+values differ significantly common source confusion
+planet geometric bond mercury venus earth mars jupiter saturn uranus neptune detailed studies directional reflectance properties astronomical bodies often expressed terms five hapke parameters semi empirically describe variation albedo phase angle including opposition effect regolith surfaces
+correlation astronomical geometric albedo absolute magnitude diameter astronomical albedo diameter kilometers absolute magnitude
+illumination albedo directly dependent illumination changing amount incoming light proportionally changes amount reflected light except circumstances change illumination induces change earth surface location
+melting reflective ice
+said albedo illumination vary latitude
+albedo highest near poles lowest subtropics local maximum tropics
+insolation effects intensity albedo temperature effects depends amount albedo level local insolation solar irradiance high albedo areas arctic antarctic regions cold due low insolation whereas areas sahara desert also relatively high albedo hotter due high insolation
+tropical sub tropical rainforest areas low albedo much hotter temperate forest counterparts lower insolation
+insolation plays big role heating cooling effects albedo high insolation areas like tropics tend show pronounced fluctuation local temperature local albedo changes
+arctic regions notably release heat back space absorb effectively cooling earth
+concern since arctic ice snow melting higher rates due higher temperatures creating regions arctic notably darker water ground darker color reflects less heat back space
+feedback loop results reduced albedo effect
+climate weather albedo affects climate determining much radiation planet absorbs
+uneven heating earth albedo variations land ice ocean surfaces drive weather
+albedo temperature feedback area albedo changes due snowfall snow temperature feedback results
+layer snowfall increases local albedo reflecting away sunlight leading local cooling
+principle outside temperature change affects area warm air mass raised albedo lower temperature would maintain current snow invite snowfall deepening snow temperature feedback
+however local weather dynamic due change seasons eventually warm air masses direct angle sunlight higher insolation cause melting
+melted area reveals surfaces lower albedo grass soil effect reversed darkening surface lowers albedo increasing local temperatures induces melting thus reducing albedo resulting still heating
+snow snow albedo highly variable ranging high freshly fallen snow melting snow low dirty snow
+antarctica snow albedo averages little
+marginally snow covered area warms snow tends melt lowering albedo hence leading snowmelt radiation absorbed snowpack ice albedo positive feedback
+fresh snow higher albedo dirty snow albedo snow covered sea ice far higher sea water
+sea water absorbs solar radiation would surface covered reflective snow
+sea ice melts either due rise sea temperature response increased solar radiation snow covered surface reduced surface sea water exposed rate energy absorption increases
+extra absorbed energy heats sea water turn increases rate sea ice melts
+preceding example snowmelt process melting sea ice thus another example positive feedback
+positive feedback loops long recognized important global warming
+cryoconite powdery windblown dust containing soot sometimes reduces albedo glaciers ice sheets
+dynamical nature albedo response positive feedback together effects small errors measurement albedo lead large errors energy estimates
+order reduce error energy estimates important measure albedo snow covered areas remote sensing techniques rather applying single value albedo broad regions
+small scale effects albedo works smaller scale
+sunlight dark clothes absorb heat light coloured clothes reflect better thus allowing control body temperature exploiting albedo effect colour external clothing
+solar photovoltaic effects albedo affect electrical energy output solar photovoltaic devices
+example effects spectrally responsive albedo illustrated differences spectrally weighted albedo solar photovoltaic technology based hydrogenated amorphous silicon si crystalline silicon si based compared traditional spectral integrated albedo predictions
+research showed impacts
+recently analysis extended effects spectral bias due specular reflectivity commonly occurring surface materials human made natural analyzes albedo effects performance seven photovoltaic materials covering three common photovoltaic system topologies industrial solar farms commercial flat rooftops residential pitched roof applications
+trees forests generally low albedo majority ultraviolet visible spectrum absorbed photosynthesis scientists suggested greater heat absorption trees could offset carbon benefits afforestation offset negative climate impacts deforestation
+case evergreen forests seasonal snow cover albedo reduction may great enough deforestation cause net cooling effect
+trees also impact climate extremely complicated ways
+water vapor causes cooling land surface causes heating condenses acts strong greenhouse gas increase albedo condenses clouds
+scientists generally treat net cooling impact net climate impact albedo changes deforestation depends greatly local climate
+seasonally snow covered zones winter albedos treeless areas higher nearby forested areas snow cover trees readily
+deciduous trees albedo value whereas coniferous trees value
+variation summer albedo across forest types correlated maximum rates photosynthesis plants high growth capacity display greater fraction foliage direct interception incoming radiation upper canopy
+result wavelengths light used photosynthesis likely reflected back space rather absorbed surfaces lower canopy
+studies hadley centre investigated relative generally warming effect albedo change cooling effect carbon sequestration planting forests
+found new forests tropical midlatitude areas tended cool new forests high latitudes siberia neutral perhaps warming
+water reflectivity smooth water refractive index water reflects light differently typical terrestrial materials
+reflectivity water surface calculated using fresnel equations see graph
+scale wavelength light even wavy water always smooth light reflected locally specular manner diffusely
+glint light water commonplace effect
+small angles incident light waviness results reduced reflectivity steepness reflectivity vs incident angle curve locally increased average incident angle
+although reflectivity water low low medium angles incident light becomes high high angles incident light occur illuminated side earth near terminator early morning late afternoon near poles
+however mentioned waviness causes appreciable reduction
+light specularly reflected water usually reach viewer water usually considered low albedo spite high reflectivity high angles incident light
+note white caps waves look white high albedo water foamed many superimposed bubble surfaces reflect adding reflectivities
+fresh black ice exhibits fresnel reflection
+snow top sea ice increases albedo
+clouds cloud albedo substantial influence atmospheric temperatures
+different types clouds exhibit different reflectivity theoretically ranging albedo minimum near maximum approaching
+given day half earth covered clouds reflect sunlight land water
+clouds keep earth cool reflecting sunlight also serve blankets trap warmth
+albedo climate areas affected artificial clouds created contrails heavy commercial airliner traffic
+study following burning kuwaiti oil fields iraqi occupation showed temperatures burning oil fires much colder temperatures several miles away clear skies
+aerosol effects aerosols fine particles droplets atmosphere direct indirect effects earth radiative balance
+direct albedo effect generally cool planet indirect effect particles act cloud condensation nuclei thereby change cloud properties less certain
+per spracklen et al
+effects aerosol direct effect
+aerosols directly scatter absorb radiation
+scattering radiation causes atmospheric cooling whereas absorption cause atmospheric warming
+aerosol indirect effect
+aerosols modify properties clouds subset aerosol population called cloud condensation nuclei
+increased nuclei concentrations lead increased cloud droplet number concentrations turn leads increased cloud albedo increased light scattering radiative cooling first indirect effect also leads reduced precipitation efficiency increased lifetime cloud second indirect effect
+black carbon another albedo related effect climate black carbon particles
+size effect difficult quantify panel climate change estimates global mean radiative forcing black carbon aerosols fossil fuels range
+black carbon bigger cause melting polar ice cap arctic carbon dioxide due effect albedo
+human activities human activities deforestation farming urbanization change albedo various areas around globe
+however quantification effect global scale difficult study required determine anthropogenic effects
+single scattering albedo used define scattering electromagnetic waves small particles
+depends properties material refractive index size particle particles wavelength incoming radiation
+cool roof daisyworld emissivity exitance global dimming irradiance kirchhoff law thermal radiation opposition surge polar see saw solar radiation management
+albedo project albedo encyclopedia earth nasa modis brdf albedo product site surface albedo derived meteosat observations discussion lunar albedos reflectivity metals chart

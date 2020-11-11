@@ -1,0 +1,57 @@
+mathematics statistics arithmetic mean stress first third syllables arithmetic simply mean average context clear sum collection numbers divided count numbers collection
+collection often set results experiment observational study frequently set results survey
+term arithmetic mean preferred contexts mathematics statistics helps distinguish means geometric mean harmonic mean
+addition mathematics statistics arithmetic mean used frequently many diverse fields economics anthropology history used almost every academic field extent
+example per capita income arithmetic average income nation population
+arithmetic mean often used report central tendencies robust statistic meaning greatly influenced outliers values much larger smaller values
+notably skewed distributions distribution income people incomes substantially greater people arithmetic mean may coincide one notion middle robust statistics median may provide better description central tendency
+given data set arithmetic mean mean average denoted read bar mean values
+arithmetic mean commonly used readily understood measure central tendency data set
+statistics term average refers measures central tendency
+arithmetic mean set observed data defined equal sum numerical values every observation divided total number observations
+symbolically data set consisting values arithmetic mean defined formula explanation summation operator see summation
+example consider monthly salary employees firm
+arithmetic mean data set statistical population consists every possible observation subset mean population called population mean denoted greek letter
+data set statistical sample subset population call statistic resulting calculation sample mean data set denoted
+arithmetic mean similarly defined vectors multiple dimension scalar values often referred centroid
+generally arithmetic mean convex combination coefficients sum defined convex space vector space
+arithmetic mean several properties make useful especially measure central tendency
+include numbers mean
+since distance given number mean one way interpret property saying numbers left mean balanced numbers right mean
+mean single number residuals deviations estimate sum zero
+required use single number typical value set known numbers arithmetic mean numbers best sense minimizing sum squared deviations typical value sum
+follows sample mean also best single predictor sense lowest root mean squared error
+arithmetic mean population numbers desired estimate unbiased arithmetic mean sample drawn population
+arithmetic mean may contrasted median
+median defined half values larger half smaller median
+elements data increase arithmetically placed order median arithmetic average equal
+example consider data sample
+average median
+however consider sample cannot arranged increase arithmetically median arithmetic average differ significantly
+case arithmetic average median
+general average value vary significantly values sample larger smaller
+applications phenomenon many fields
+example since median income united states increased slowly arithmetic average income
+weighted average weighted average weighted mean average data points count heavily others given weight calculation
+example arithmetic mean equivalently
+contrast weighted mean first number receives example twice much weight second perhaps assumed appear twice often general population numbers sampled would calculated
+weights necessarily sum value one former twice latter
+arithmetic mean sometimes called unweighted average equally weighted average interpreted special case weighted average weights equal equal example equal situation numbers averaged
+continuous probability distributions comparison two log normal distributions equal median different skewness resulting different means modes numerical property sample data could take value continuous range instead example integers probability number falling range possible values described integrating continuous probability distribution across range even naive probability sample number taking one certain value infinitely many zero
+analog weighted average context infinite number possibilities precise value variable range called mean probability distribution
+widely encountered probability distribution called normal distribution property measures central tendency including mean also aforementioned median mode three equal
+equality hold probability distributions illustrated lognormal distribution
+particular care must taken using cyclic data phases angles
+naively taking arithmetic mean yields result
+incorrect two reasons firstly angle measurements defined additive constant measuring radians
+thus one could easily call since one gives different average
+secondly situation equivalently geometrically better average value lower dispersion points putative average
+general application oversight lead average value artificially moving towards middle numerical range
+solution problem use optimization formulation viz define mean central point point one lowest dispersion redefine difference modular distance distance circle modular distance
+arithmetic mean often denoted bar example read bar
+software text processors web browsers may display symbol properly
+example symbol html actually combination two codes base letter plus code line
+texts pdfs symbol may replaced cent symbol unicode copied text processor microsoft word
+fréchet mean generalized mean geometric mean harmonic mean mode sample mean covariance standard deviation standard error mean summary statistics
+
+calculations comparisons arithmetic mean geometric mean two numbers calculate arithmetic mean series numbers fxsolver

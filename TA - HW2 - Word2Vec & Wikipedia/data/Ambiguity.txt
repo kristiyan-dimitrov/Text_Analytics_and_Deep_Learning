@@ -1,0 +1,179 @@
+sir john tenniel illustration caterpillar lewis carroll alice adventures wonderland noted ambiguous central figure whose head viewed human male face pointed nose chin head end actual caterpillar first two right true legs visible
+ambiguity type meaning phrase statement resolution explicitly defined making several interpretations plausible
+common aspect ambiguity uncertainty
+thus attribute idea statement whose intended meaning cannot definitively resolved according rule process finite number steps
+ambi part term reflects idea two two meanings
+concept ambiguity generally contrasted vagueness
+ambiguity specific distinct interpretations permitted although may immediately obvious whereas information vague difficult form interpretation desired level specificity
+context may play role resolving ambiguity
+example piece information may ambiguous one context unambiguous another
+lexical ambiguity contrasted semantic ambiguity
+former represents choice finite number known meaningful context dependent interpretations
+latter represents choice number possible interpretations none may standard agreed upon meaning
+form ambiguity closely related vagueness
+linguistic ambiguity problem law interpretation written documents oral agreements often paramount importance structural analysis ambiguous spanish sentence pepe vio pablo enfurecido interpretation pepe angry saw pepe saw pablo angry syntactic tree figure represents interpretation
+lexical ambiguity lexical ambiguity word phrase pertains one meaning language word belongs
+meaning refers whatever captured good dictionary
+instance word bank several distinct lexical definitions including financial institution edge river
+consider apothecary
+one could say bought herbs apothecary
+could mean one actually spoke apothecary pharmacist went apothecary pharmacy
+context ambiguous word used often makes evident meanings intended
+instance someone says buried bank people would think someone used shovel dig mud
+however linguistic contexts provide sufficient information disambiguate used word
+lexical ambiguity addressed algorithmic methods automatically associate appropriate meaning word context task referred word sense disambiguation
+use multi defined words requires author speaker clarify context sometimes elaborate specific intended meaning case less ambiguous term used
+goal clear concise communication receiver meant conveyed
+exception could include politician whose weasel words obfuscation necessary gain support multiple constituents mutually exclusive conflicting desires candidate choice
+ambiguity powerful tool political science
+problematic words whose senses express closely related concepts
+good example mean useful functional good hammer exemplary good student pleasing good soup moral good person versus lesson learned story righteous etc
+good daughter clear sense intended
+various ways apply prefixes suffixes also create ambiguity unlockable mean capable unlocked impossible lock
+ambiguity effective narrative device engage hearer conversation move level deeper import
+gospel john jesus uses ambiguous metaphor double entendre create bewilderment hearer resolved either jesus narrator
+new testament exegete rudolf bultmann explains way ambiguity functions fourth gospel
+comes someone sees right meaning word mistakenly imagines meaning exhausted earthly matters case point ambiguous metaphor living water greek ὕδωρ ζῶν hydōr zōn john
+woman samaria assumes jesus knows flowing stream living water make job fetching water jacob well sychar easier
+jesus however mind different type living water one wells within person figurative spiritual sense word
+semantic syntactic ambiguity semantic ambiguity occurs word phrase sentence taken context one interpretation
+saw duck example due richard nordquist words duck refer either person bird noun duck modified possessive pronoun motion made verb duck subject objective pronoun object verb saw
+syntactic ambiguity arises sentence two different meanings structure sentence syntax
+often due modifying expression prepositional phrase application unclear
+ate cookies couch example could mean ate cookies couch opposed table could mean sitting couch ate cookies
+get need entrance fee voucher drivers license
+could mean need either ten dollars voucher license
+could mean need license need either ten dollars voucher
+rewriting sentence placing appropriate punctuation resolve syntactic ambiguity
+notion theoretic results syntactic ambiguity artificial formal languages computer programming languages see ambiguous grammar
+usually semantic syntactic ambiguity go hand hand
+sentence saw duck also syntactically ambiguous
+conversely sentence like ate cookies couch also semantically ambiguous
+rarely occasionally different parsings syntactically ambiguous phrase result meaning
+example command cook cook
+parsed cook noun used vocative cook imperative verb form
+also cook imperative verb form cook noun used vocative
+common syntactically unambiguous phrase semantic ambiguity example lexical ambiguity boss funny man purely semantic leading response funny ha ha funny peculiar
+spoken language contain many types ambiguities called phonological ambiguities one way compose set sounds words
+example ice cream scream
+ambiguity generally resolved according context
+mishearing based incorrectly resolved ambiguity called mondegreen
+metonymy involves referring one entity name different closely related entity example using wheels refer car wall street refer stock exchanges located street even entire us financial sector
+modern vocabulary critical semiotics metonymy encompasses potentially ambiguous word substitution based contextual contiguity located close together function process object performs sweet ride refer nice car
+metonym considered primary mechanism linguistic humor
+philosophers users logic spend lot time effort searching removing intentionally adding ambiguity arguments lead incorrect conclusions used deliberately conceal bad arguments
+example politician might say oppose taxes hinder economic growth example glittering generality
+think opposes taxes general hinder economic growth
+others may think opposes taxes believes hinder economic growth
+writing sentence rewritten reduce possible either adding comma taxes convey first sense changing convey second sense rewriting ways
+devious politician hopes constituent interpret statement desirable way think politician supports everyone opinion
+however opposite also true opponent turn positive statement bad one speaker uses ambiguity intentionally
+logical fallacies amphiboly equivocation rely heavily use ambiguous words phrases
+continental philosophy particularly phenomenology existentialism much greater tolerance ambiguity generally seen integral part human condition
+martin heidegger argued relation subject object ambiguous relation mind body part whole heidegger phenomenology dasein always meaningful world always underlying background every instance signification
+thus although things may certain little dasein sense care existential anxiety face death
+calling work nothingness essay ontology jean paul sartre follows heidegger defining human essence ambiguous relating fundamentally ambiguity
+simone de beauvoir tries base ethics heidegger sartre writings ethics ambiguity highlights need grapple ambiguity long philosophers men thought tried mask ethics proposed disciples always pursued goal
+matter eliminating ambiguity making oneself pure inwardness pure externality escaping sensible world engulfed yielding eternity enclosing oneself pure moment
+ethics cannot based authoritative certainty given mathematics logic prescribed directly empirical findings science
+states since succeed fleeing let us therefore try look truth face
+let us try assume fundamental ambiguity
+knowledge genuine conditions life must draw strength live reason acting
+continental philosophers suggest concepts life nature sex ambiguous
+corey anton argued cannot certain separate unified something else language asserts divides fact separate
+following ernest becker argues desire authoritatively disambiguate world existence led numerous ideologies historical events genocide
+basis argues ethics must focus dialectically integrating opposites balancing tension rather seeking priori validation certainty
+like existentialists sees ambiguity life basis creativity
+literature rhetoric ambiguity useful tool
+groucho marx classic joke depends grammatical ambiguity humor example last night shot elephant pajamas
+got pajamas never know
+songs poetry often rely ambiguous words artistic effect song title make brown eyes blue blue refer color sadness
+narrative ambiguity introduced several ways motive plot character
+scott fitzgerald uses latter type ambiguity notable effect novel great gatsby
+mathematical notation widely used physics sciences avoids many ambiguities compared expression natural language
+however various reasons several lexical syntactic semantic ambiguities remain
+names functions ambiguity style writing function confused multivalued function defined deterministic unambiguous way
+several special functions still established notations
+usually conversion another notation requires scale argument resulting value sometimes name function used causing confusions
+examples functions sinc function elliptic integral third kind translating elliptic integral form maple mathematica one replace second argument square see talk elliptic integral list notations dealing complex values may cause problems
+exponential integral hermite polynomial expressions ambiguous expressions often appear physical mathematical texts
+common practice omit multiplication signs mathematical expressions
+also common give name variable function example
+one sees way distinguish whether means multiplied function evaluated argument equal
+case use notations reader supposed able perform deduction reveal true meaning
+creators algorithmic languages try avoid ambiguities
+many algorithmic languages fortran require character symbol multiplication
+wolfram language used mathematica allows user omit multiplication symbol requires square brackets indicate argument function square brackets allowed grouping expressions
+fortran addition allow use name identifier different objects example function variable particular expression qualified error
+order operations may depend context
+programming languages operations division multiplication equal priority executed left right
+last century many editorials assumed multiplication performed first example interpreted case insertion parentheses required translating formulas algorithmic language
+addition common write argument function without parenthesis also may lead ambiguity
+scientific journal style one uses roman letters denote elementary functions whereas variables written using italics
+example mathematical journals expression denote sine function product three variables although informal notation slide presentation may stand
+commas multi component subscripts superscripts sometimes omitted also potentially ambiguous notation
+example notation reader infer context whether means single index object taken subscript equal product variables indication trivalent tensor
+examples potentially confusing ambiguous mathematical expressions expression understood mean either
+often author intention understood context cases one two makes sense ambiguity like avoided example writing
+expression means several texts though might thought mean since commonly means
+conversely might seem mean exponentiation notation usually denotes function iteration general means
+however trigonometric hyperbolic functions notation conventionally means exponentiation result function application
+expression interpreted meaning particular one thinks common acronym pemdas order operations implies ultiplication takes precedence ivision however commonly understood mean
+notations quantum optics quantum mechanics common define coherent states quantum optics states fixed number photons
+unwritten rule state coherent greek characters latin characters argument photon state latin characters dominate
+ambiguity becomes even worse used states certain value coordinate means state certain value momentum may used books quantum mechanics
+ambiguities easily lead confusions especially normalized adimensional dimensionless variables used
+expression may mean state single photon coherent state mean amplitude equal state momentum equal unity
+reader supposed guess context
+ambiguous terms physics mathematics physical quantities yet established notations value sometimes even dimension case einstein coefficients depends system notations
+many terms ambiguous
+use ambiguous term preceded definition suitable specific case
+like ludwig wittgenstein states tractatus logico philosophicus context proposition name meaning
+highly confusing term gain
+example sentence gain system doubled without context means close nothing
+may mean ratio output voltage electric circuit input voltage doubled
+may mean ratio output power electric optical circuit input power doubled
+may mean gain laser medium doubled example doubling population upper laser level quasi two level system assuming negligible absorption ground state
+term intensity ambiguous applied light
+term refer irradiance luminous intensity radiant intensity radiance depending background person using term
+also confusions may related use atomic percent measure concentration dopant resolution imaging system measure size smallest detail still resolved background statistical noise
+see also accuracy precision talk
+berry paradox arises result systematic ambiguity meaning terms definable nameable
+terms kind give rise vicious circle fallacies
+terms type ambiguity satisfiable true false function property class relation cardinal ordinal
+necker cube impossible cube underdetermined overdetermined object respectively thumb mathematics logic ambiguity considered instance logical concept example leaves open value opposite self contradiction also called inconsistency paradoxicalness oxymoron mathematics inconsistent system solution
+logical ambiguity self contradiction analogous visual ambiguity impossible objects necker cube impossible cube many drawings escher
+languages created intention avoiding ambiguity especially lexical ambiguity
+lojban loglan two related languages created focusing chiefly syntactic ambiguity well
+languages spoken written
+languages intended provide greater technical precision big natural languages although historically attempts language improvement criticized
+languages composed many diverse sources contain much ambiguity inconsistency
+many exceptions syntax semantic rules time consuming difficult learn
+structural biology ambiguity recognized problem studying protein conformations
+analysis protein three dimensional structure consists dividing macromolecule subunits called domains
+difficulty task arises fact different definitions domain used
+folding autonomy function thermodynamic stability domain motions sometimes results single protein different yet equally valid domain assignments
+christianity judaism employ concept paradox synonymously ambiguity
+many christians jews endorse rudolf otto description sacred mysterium tremendum et fascinans awe inspiring mystery fascinates humans
+orthodox catholic writer chesterton regularly employed paradox tease meanings common concepts found ambiguous reveal meaning often overlooked forgotten common phrases
+title one famous books orthodoxy employing paradox
+music pieces sections confound expectations may interpreted simultaneously different ways ambiguous polytonality polymeter ambiguous meters rhythms ambiguous phrasing stein aspect music
+music africa often purposely ambiguous
+quote sir donald francis tovey theorists apt vex vain efforts remove uncertainty high aesthetic value
+ambiguous image interpreted three ways either letters kb mathematical inequality letters vd mirror image
+visual art certain images visually ambiguous necker cube interpreted two ways
+perceptions objects remain stable time may flip phenomenon called multistable perception
+opposite ambiguous images impossible objects
+pictures photographs may also ambiguous semantic level visual image unambiguous meaning narrative may ambiguous certain facial expression one excitement fear instance
+social psychology ambiguity factor used determining peoples responses various situations
+high levels ambiguity emergency
+unconscious man laying park bench make witnesses less likely offer sort assistance due fear may misinterpreted situation acted unnecessarily
+alternately non ambiguous emergencies
+injured person verbally asking help illicit consistent intervention assistance
+regard bystander effect studies shown emergencies deemed ambiguous trigger appearance classic bystander effect wherein witnesses decrease likelihood helping far non ambiguous emergencies
+computer science si prefixes kilo mega giga historically used certain contexts mean either first three powers contrary metric system units unambiguously mean one thousand one million one billion
+usage particularly prevalent electronic memory devices
+dram addressed directly binary machine register decimal interpretation makes practical sense
+subsequently ki mi gi prefixes introduced binary prefixes could written explicitly also rendering unambiguous texts conforming new standard led new ambiguity engineering documents lacking outward trace binary prefixes necessarily indicating new style whether usage remains ambiguous old style new style
+ambiguously less uncertain engineering value defined designate interval non volatile storage devices began commonly exceed gb capacity ambiguity begins routinely impact second significant digit gb tb almost always mean bytes
+collection ambiguous inconsistent incomplete statements leaving ambiguities writing

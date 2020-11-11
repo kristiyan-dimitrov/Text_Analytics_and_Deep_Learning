@@ -1,0 +1,97 @@
+computer science acid atomicity consistency isolation durability set properties database transactions intended guarantee data validity despite errors power failures mishaps
+context databases sequence database operations satisfies acid properties perceived single logical operation data called transaction
+example transfer funds one bank account another even involving multiple changes debiting one account crediting another single transaction
+andreas reuter theo härder coined acronym acid building earlier work jim gray named atomicity consistency durability isolation characterizing transaction concept
+four properties major guarantees transaction paradigm influenced many aspects development database systems
+according gray reuter ibm information management system supported acid transactions early although acronym created later
+characteristics four properties defined reuter härder follows atomicity transactions often composed multiple statements
+atomicity guarantees transaction treated single unit either succeeds completely fails completely statements constituting transaction fails complete entire transaction fails database left unchanged
+atomic system must guarantee atomicity every situation including power failures errors crashes
+guarantee atomicity prevents updates database occurring partially cause greater problems rejecting whole series outright
+consequence transaction cannot observed progress another database client
+one moment time yet happened next already occurred whole nothing happened transaction cancelled progress
+example atomic transaction monetary transfer bank account account
+consists two operations withdrawing money account saving account
+performing operations atomic transaction ensures database remains consistent state money neither lost created either two operations fail
+consistency consistency ensures transaction bring database one valid state another maintaining database invariants data written database must valid according defined rules including constraints cascades triggers combination thereof
+prevents database corruption illegal transaction guarantee transaction correct
+referential integrity guarantees primary key foreign key relationship
+isolation transactions often executed concurrently multiple transactions reading writing table time
+isolation ensures concurrent execution transactions leaves database state would obtained transactions executed sequentially
+isolation main goal concurrency control depending method used effects incomplete transaction might even visible transactions
+durability durability guarantees transaction committed remain committed even case system failure power outage crash
+usually means completed transactions effects recorded non volatile memory
+following examples illustrate acid properties
+examples database table two columns
+integrity constraint requires value value must sum
+following sql code creates table described create table acidtest integer integer check atomicity atomicity guarantee series database operations atomic transaction either occur successful operation none occur unsuccessful operation
+series operations cannot separated executed makes series operations indivisible
+guarantee atomicity prevents updates database occurring partially cause greater problems rejecting whole series outright
+words atomicity means indivisibility irreducibility
+alternatively may say logical transaction may made composed one several physical transactions
+unless component physical transactions executed logical transaction occurred effects database
+say logical transaction consists transferring funds account account
+logical transaction may composed several physical transactions consisting first removing amount account first physical transaction second transaction depositing said amount account
+would want see amount removed account sure transferred account
+unless transactions happened amount transferred account transfer effects database occurred
+consistency failure consistency general term demands data must meet validation rules
+previous example validation requirement
+validation rules must checked ensure consistency
+assume transaction attempts subtract without altering
+consistency checked transaction known transaction begins
+transaction removes successfully atomicity achieved
+however validation check show inconsistent rules database
+entire transaction must cancelled affected rows rolled back pre transaction state
+constraints triggers cascades every single change operation would checked way transaction committed
+similar issues may arise constraints
+may required data types integers
+enter say value transaction cancelled system may give rise alert form trigger trigger written effect
+another example would integrity constraints would allow us delete row one table whose primary key referred least one foreign key tables
+isolation failure demonstrate isolation assume two transactions execute time attempting modify data
+one two must wait completes order maintain isolation
+consider two transactions transfers transfers
+combined four actions subtracts
+adds
+subtracts
+adds
+operations performed order isolation maintained although must wait
+consider happens fails halfway
+database eliminates effects sees valid data
+interleaving transactions actual order actions might subtracts
+subtracts
+adds
+adds
+consider happens fails modifying step
+time fails already modified cannot restored value without leaving invalid database
+known write write failure two transactions attempted write data field
+typical system problem would resolved reverting last known good state canceling failed transaction restarting interrupted transaction good state
+durability failure consider transaction transfers
+first removes adds
+point user told transaction success
+however changes still queued disk buffer waiting committed disk
+power fails changes lost
+user assumes understandably changes persist
+processing transaction often requires sequence operations subject failure number reasons
+instance system may room left disk drives may used allocated cpu time
+two popular families techniques write ahead logging shadow paging
+cases locks must acquired information updated depending level isolation possibly data may read well
+write ahead logging durability guaranteed copying original unchanged data log changing database
+allows database return consistent state event crash
+shadowing updates applied partial copy database new copy activated transaction commits
+locking vs multiversioning many databases rely upon locking provide acid capabilities
+locking means transaction marks data accesses dbms knows allow transactions modify first transaction succeeds fails
+lock must always acquired processing data including data read modified
+non trivial transactions typically require large number locks resulting substantial overhead well blocking transactions
+example user running transaction read row data user wants modify user must wait user transaction completes
+two phase locking often applied guarantee full isolation
+alternative locking multiversion concurrency control database provides reading transaction prior unmodified version data modified another active transaction
+allows readers operate without acquiring locks writing transactions block reading transactions readers block writers
+going back example user transaction requests data user modifying database provides version data existed user started transaction
+user gets consistent view database even users changing data
+one implementation namely snapshot isolation relaxes isolation property
+distributed transactions guaranteeing acid properties distributed transaction across distributed database single node responsible data affecting transaction presents additional complications
+network connections might fail one node might successfully complete part transaction required roll back changes failure another node
+two phase commit protocol confused two phase locking provides atomicity distributed transactions ensure participant transaction agrees whether transaction committed
+briefly first phase one node coordinator interrogates nodes participants reply prepared coordinator second phase formalize transaction
+eventual consistency base cap theorem concurrency control java transaction api open systems interconnection transactional ntfs two phase commit protocol crud
+database management systems

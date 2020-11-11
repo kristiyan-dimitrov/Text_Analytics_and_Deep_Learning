@@ -1,0 +1,203 @@
+hearing aid assistive technology assistive adaptive rehabilitative devices people disabilities elderly population
+people disabilities often difficulty performing activities daily living adls independently even assistance
+adls self care activities include toileting mobility ambulation eating bathing dressing grooming personal device care
+assistive technology ameliorate effects disabilities limit ability perform adls
+assistive technology promotes greater independence enabling people perform tasks formerly unable accomplish great difficulty accomplishing providing enhancements changing methods interacting technology needed accomplish tasks
+example wheelchairs provide independent mobility cannot walk assistive eating devices enable people cannot feed
+due assistive technology people disabilities opportunity positive easygoing lifestyle increase social participation security control greater chance reduce institutional costs without significantly increasing household expenses
+adaptive technology assistive technology different
+assistive technology something used help individuals disabilities adaptive technology covers items specifically designed people disabilities would seldom used non disabled person
+words assistive technology object system helps people disabilities adaptive technology specifically designed people disabilities
+consequently adaptive technology subset assistive technology
+adaptive technology often refers specifically electronic information technology access
+occupational therapy ot healthcare profession specializes maintaining improving quality life individuals experience challenges independently performing life occupations
+according occupational therapy practice framework domain process rd ed
+aota occupations include areas related basic instrumental activities daily living adls rest sleep education work play leisure social participation
+occupational therapists specialized skill employing assistive technology improvement maintenance optimal functional participation occupations
+application enables individual adapt aspects environment may otherwise challenging user order optimize functional participation occupations
+result occupational therapists may educate recommend promote use improve quality life clients
+wheelchair propelled attached handcycle wheelchairs wheelchairs devices manually propelled electrically propelled include seating system designed substitute normal mobility people
+wheelchairs mobility devices allow people perform mobility related activities daily living include feeding toileting dressing grooming bathing
+devices come number variations propelled either hand motors occupant uses electrical controls manage motors seating control actuators joystick sip puff control head switches input devices
+often handles behind seat someone else pushing input devices caregivers
+wheelchairs used people walking difficult impossible due illness injury disability
+people sitting walking disability often need use wheelchair walker
+newer advancements wheelchair design enable wheelchairs climb stairs go road propel using segway technology additional add ons like handbikes power assists
+power add transfer devices patient transfer devices generally allow patients impaired mobility moved caregivers beds wheelchairs commodes toilets chairs stretchers shower benches automobiles swimming pools patient support systems radiology surgical examining tables
+common devices patient lifts vertical transfer transfer benches stretcher convertible chairs lateral supine transfer sit stand lifts moving patients one seated position another wheelchairs commodes air bearing inflatable mattresses supine transfer transfer gurney operating room table sliding boards usually used transfer bed wheelchair
+highly dependent patients cannot assist caregiver moving often require patient lift floor ceiling suspended sling lift though invented common use since early still considered state art transfer device osha american nursing association
+walkers walker walking frame rollator tool disabled people need additional support maintain balance stability walking
+consists frame waist high approximately twelve inches deep slightly wider user
+walkers also available sizes children heavy people
+modern walkers height adjustable
+front two legs walker may may wheels attached depending strength abilities person using
+also common see caster wheels glides back legs walker wheels front
+prosthesis prosthesis prosthetic prosthetic limb device replaces missing body part
+part field biomechatronics science using mechanical devices human muscle skeleton nervous systems assist enhance motor control lost trauma disease defect
+prostheses typically used replace parts lost injury traumatic missing birth congenital supplement defective body parts
+inside body artificial heart valves common use artificial hearts lungs seeing less common use active technology development
+medical devices aids considered prosthetics include hearing aids artificial eyes palatal obturator gastric bands dentures
+prostheses specifically orthoses although given certain circumstances prosthesis might end performing functionary benefits orthosis
+prostheses technically complete finished item
+instance leg knee alone prosthesis prosthetic component
+complete prosthesis would consist attachment system residual limb usually socket attachment hardware components way including terminal device
+keep mind nomenclature often interchanged
+terms prosthetic orthotic adjectives used describe devices prosthetic knee
+terms prosthetics orthotics used describe respective allied health fields
+exoskeletons powered exoskeleton wearable mobile machine powered system electric motors pneumatics levers hydraulics combination technologies allow limb movement increased strength endurance
+design aims provide back support sense user motion send signal motors manage gears
+exoskeleton supports shoulder waist thigh assists movement lifting holding heavy items lowering back stress
+adaptive seating positioning people balance motor function challenges often need specialized equipment sit stand safely securely
+equipment frequently specialized specific settings classroom nursing home
+positioning often important seating arrangements ensure user body pressure distributed equally without inhibiting movement desired way
+positioning devices developed aid allowing people stand bear weight legs without risk fall
+standers generally grouped two categories based position occupant
+prone standers distribute body weight front individual usually tray front
+makes good users actively trying carry task
+supine standers distribute body weight back good cases user limited mobility recovering injury
+many people serious visual impairments live independently using wide range tools techniques
+examples assistive technology visually impairment include screen readers screen magnifiers braille embossers desktop video magnifiers voice recorders
+screen readers screen readers used help visually impaired easily access electronic information
+software programs run computer order convey displayed information voice text speech braille refreshable braille displays combination magnification low vision users cases
+variety platforms applications available variety costs differing feature sets
+example screen readers apple voiceover google talkback microsoft narrator
+software provided free charge apple devices
+apple voiceover includes option magnify screen control keyboard provide verbal descriptions describe happening screen
+thirty languages select
+also capacity read aloud file content well web pages mail messages word processing files
+braille system raised dots representing letters numbers punctuation words
+mentioned screen readers may rely assistance text speech tools
+use text speech tools documents must electronic form uploaded digital format
+however people usually use hard copy documents scanned computer cannot recognized text speech software
+solve issue people always use optical character recognition technology accompanied text speech software
+braille braille embossers braille system raised dots formed units called braille cells
+full braille cell made six dots two parallel rows three dots combinations quantities dots represent letters numbers punctuation marks words
+people use fingers read code raised dots
+braille embosser simply put printer braille
+instead standard printer adding ink onto page braille embosser imprints raised dots braille onto page
+braille embossers combine braille ink documents read either sight touch
+refreshable braille display refreshable braille display braille terminal electro mechanical device displaying braille characters usually means round tipped pins raised holes flat surface
+computer users cannot use computer monitor use read braille output version displayed text
+desktop video magnifier desktop video magnifiers electronic devices use camera display screen perform digital magnification printed materials
+enlarge printed pages low vision
+camera connects monitor displays real time images user control settings magnification focus contrast underlining highlighting screen preferences
+come variety sizes styles small portable handheld cameras others much larger mounted fixed stand
+screen magnification software screen magnifier software interfaces computer graphical output present enlarged screen content
+allows users enlarge texts graphics computer screens easier viewing
+similar desktop video magnifiers technology assists people low vision
+user loads software computer memory serves kind computer magnifying glass
+wherever computer cursor moves enlarges area around
+allows greater computer accessibility wide range visual abilities
+alt magic large print magic large print keyboard tactile elements special keys visually impaired large print tactile keyboards large print keyboard large letters printed keys
+keyboard shown round buttons top control software magnify screen zoom change background color screen make mouse cursor screen larger
+bump dots keys installed case organization using keyboards help user find right keys tactile way
+navigation assistance assistive technology navigation exploded ieee xplore database since engineering articles written assistive technologies visual impairment past years articles solving problem navigation people blind visually impaired
+well articles augmented reality visual impairment appeared engineering literature since
+articles published within past years number articles area increasing every year
+gps accelerometers gyroscopes cameras pinpoint exact location user provide information immediate vicinity assistance getting destination
+wearable technology wearable technology smart electronic devices worn body implant accessory
+new technologies exploring visually impaired receive visual information wearable devices
+wearable devices visual impairment include orcam device esight brainport
+voter manual dexterity disability making choices touchscreen head dauber personal emergency response systems pers telecare uk term particular sort assistive technology use electronic sensors connected alarm system help caregivers manage risk help vulnerable people stay independent home longer
+example would systems put place senior people fall detectors thermometers hypothermia risk flooding unlit gas sensors people mild dementia
+notably alerts customized particular person risks
+alert triggered message sent caregiver contact center respond appropriately
+human computer interaction computer accessibility also known accessible computing refers accessibility computer system people regardless disability severity impairment examples include web accessibility guidelines
+another approach user present token computer terminal smart card configuration information adjust computer speed text size etc
+particular needs
+useful users want access public computer based terminals libraries atm information kiosks etc
+concept encompassed cen en identification card systems man machine interface
+development standard supported europe snapi successfully incorporated lasseo specifications limited success due lack interest public computer terminal suppliers
+people deaf hard hearing community difficult time receiving auditory information compared hearing individuals
+individuals often rely visual tactile mediums receiving communicating information
+use assistive technology devices provides community various solutions auditory communication needs providing higher sound hard hearing tactile feedback visual cues improved technology access
+individuals deaf hard hearing utilize variety assistive technologies provide different access information numerous environments
+devices either provide amplified sound alternate ways access information vision vibration
+technologies grouped three general categories hearing technology alerting devices communication support
+hearing aids hearing aid deaf aid electro acoustic device designed amplify sound wearer usually aim making speech intelligible correct impaired hearing measured audiometry
+type assistive technology helps people hearing loss participate fully hearing communities allowing hear clearly
+amplify sound waves use microphone amplifier speaker
+wide variety hearing aids available including digital ear canal behind ear body aids
+assistive listening devices assistive listening devices include fm infrared loop assistive listening devices
+type technology allows people hearing difficulties focus speaker subject getting rid extra background noises distractions making places like auditoriums classrooms meetings much easier participate
+assistive listening device usually uses microphone capture audio source near origin broadcast wirelessly fm frequency modulation transmission ir infra red transmission il induction loop transmission transmission methods
+person listening may use fm ir il receiver tune signal listen preferred volume
+amplified telephone equipment type assistive technology allows users amplify volume clarity phone calls easily partake medium communication
+also options adjust frequency tone call suit individual hearing needs
+additionally wide variety amplified telephones choose different degrees amplification
+example phone decibel generally sufficient mild hearing loss phone decibel better severe hearing loss
+aac user uses number coding eye gaze communication board augmentative alternative communication aac umbrella term encompasses methods communication impairments restrictions production comprehension spoken written language
+aac systems extremely diverse depend capabilities user
+may basic pictures board used request food drink care advanced speech generating devices based speech synthesis capable storing hundreds phrases words
+assistive technology cognition atc use technology usually high tech augment assist cognitive processes attention memory self regulation navigation emotion recognition management planning sequencing activity
+systematic reviews field found number atc growing rapidly focused memory planning emerging evidence efficacy lot scope exists develop new atc
+examples atc include neuropage prompts users meetings wakamaru provides companionship reminds users take medicine calls help something wrong telephone reassurance systems
+memory aids memory aids type assistive technology helps user learn remember certain information
+many memory aids used cognitive impairments reading writing organizational difficulties
+example smartpen records handwritten notes creating digital copy audio recording text
+users simply tap certain parts notes pen saves reads back
+user also download notes onto computer increased accessibility
+digital voice recorders also used record moment information fast easy recall later time
+educational software educational software software assists people reading learning comprehension organizational difficulties
+accommodation software text readers notetakers text enlargers organization tools word predictions talking word processors falls category educational software
+adaptive eating devices include items commonly used general population like spoons forks plates
+however become assistive technology modified accommodate needs people difficulty using standard cutlery due disabling condition
+common modifications include increasing size utensil handle make easier grasp
+plates bowls may guard edge stops food pushed dish scooped
+sophisticated equipment eating includes manual powered feeding devices
+devices support little hand arm function enable eat independently
+new york city marathon competitor uses racing wheelchair assistive technology sports area technology design growing
+assistive technology array new devices created enable sports enthusiasts disabilities play
+assistive technology may used adaptive sports existing sport modified enable players disability participate assistive technology may used invent completely new sports athletes disabilities exclusively mind
+increasing number people disabilities participating sports leading development new assistive technology
+assistive technology devices simple low tech may use highly advanced technology
+low tech devices include velcro gloves adaptive bands tubes
+high tech devices include terrain wheelchairs adaptive bicycles
+accordingly assistive technology found sports ranging local community recreation elite paralympic games
+complex assistive technology devices developed time result sports people disabilities changed clinical therapeutic tool increasingly competition oriented activity
+united states two major pieces legislation govern use assistive technology within school system
+first section rehabilitation act second individuals disabilities education act idea first enacted name education handicapped children act
+reauthorization period idea national instructional material access center nimac created provided repository accessible text including publisher textbooks students qualifying disability
+files provided xml format used starting platform braille readers screen readers digital text software
+idea defines assistive technology follows item piece equipment product system whether acquired commercially shelf modified customized used increase maintain improve functional capabilities child disability
+exception term include medical device surgically implanted replacement device
+assistive technology area broken low mid high tech categories
+low tech encompasses equipment often low cost include batteries requires charging
+examples include adapted paper pencil grips writing masks color overlays reading
+mid tech supports used school setting include use handheld spelling dictionaries portable word processors used keyboard writing
+high tech supports involve use tablet devices computers accompanying software
+software supports writing include use auditory feedback keyboarding word prediction spelling speech text
+supports reading include use text speech tts software font modification via access digital text
+limited supports available math instruction mostly consist grid based software allow younger students keyboard equations auditory feedback complex equations using mathml daisy
+sip puff device allows person substantial disability make selections navigate computerized interfaces controlling inhalations exhalations one largest problems affect people disabilities discomfort prostheses
+experiment performed massachusetts utilized people various sensors attached arms
+subjects tried different arm exercises sensors recorded movements
+data helped engineers develop new engineering concepts prosthetics
+assistive technology may attempt improve ergonomics devices dvorak alternative keyboard layouts offer ergonomic layouts keys
+assistive technology devices created enable people disabilities use modern touch screen mobile computers ipad iphone ipod touch
+pererro plug play adapter ios devices uses built apple voiceover feature combination basic switch
+brings touch screen technology previously unable use
+apple release ios introduced ability navigate apps using switch control
+switch access could activated either external bluetooth connected switch single touch screen use right left head turns using device camera
+additional accessibility features include use assistive touch allows user access multi touch gestures pre programmed onscreen buttons
+users physical disabilities large variety switches available customizable user needs varying size shape amount pressure required activation
+switch access may placed near area body consistent reliable mobility less subject fatigue
+common sites include hands head feet
+eye gaze head mouse systems also used alternative mouse navigation
+user may utilize single multiple switch sites process often involves scanning items screen activating switch desired object highlighted
+form home automation called assistive domotics focuses making possible elderly disabled people live independently
+home automation becoming viable option elderly disabled would prefer stay homes rather move healthcare facility
+field uses much technology equipment home automation security entertainment energy conservation tailors towards elderly disabled users
+example automated prompts reminders utilize motion sensors pre recorded audio messages automated prompt kitchen may remind resident turn oven one front door may remind resident lock door
+overall assistive technology aims allow people disabilities participate fully aspects life home school community increases opportunities education social interactions potential meaningful employment
+creates greater independence control disabled individuals
+example one study infants toddlers preschoolers kind developmental physical sensory cognitive disability use assistive technology created improvements child development
+included improvements cognitive social communication literacy motor adaptive increases engagement learning activities
+additionally found lighten caregiver load
+family professional caregivers benefit assistive technology
+use time family member friend would need care patient significantly decreases
+however studies show care time professional caregiver increases assistive technology used
+nonetheless work load significantly easier assistive technology frees perform certain tasks
+several platforms use machine learning identify appropriate assistive device suggest patients making assistive devices accessible
+accessibility assisted living augmentative alternative communication braille technology design ict durable medical equipment matching person technology model oats open source assistive technology software occupational therapy design universal access education
+source notes

@@ -1,0 +1,321 @@
+chemical structure methane simplest alkane organic chemistry alkane paraffin historical name also meanings acyclic saturated hydrocarbon
+words alkane consists hydrogen carbon atoms arranged tree structure carbon carbon bonds single
+alkanes general chemical formula
+alkanes range complexity simplest case methane ch sometimes called parent molecule arbitrarily large complex molecules like pentacontane ethyl methyl methylethyl octane isomer tetradecane
+iupac defines alkanes acyclic branched unbranched hydrocarbons general formula therefore consisting entirely hydrogen atoms saturated carbon atoms
+however sources use term denote saturated hydrocarbon including either monocyclic
+cycloalkanes polycyclic despite distinct general formula
+cycloalkanes
+alkane carbon atom sp hybridized sigma bonds either hydrogen atom joined one carbon atoms bond
+longest series linked carbon atoms molecule known carbon skeleton carbon backbone
+number carbon atoms may considered size alkane
+one group higher alkanes waxes solids standard ambient temperature pressure satp number carbon atoms carbon backbone greater
+repeated ch units alkanes constitute homologous series organic compounds members differ molecular mass multiples total mass methylene bridge unit comprises single carbon atom mass two hydrogen atoms mass
+methane produced methanogenic bacteria long chain alkanes function pheromones certain animal species protective waxes plants fungi
+nevertheless alkanes much biological activity
+viewed molecular trees upon hung active reactive functional groups biological molecules
+alkanes two main commercial sources petroleum crude oil natural gas
+alkyl group alkane based molecular fragment bears one open valence bonding
+generally abbreviated symbol organyl group although alk sometimes used specifically symbolize alkyl group opposed alkenyl group aryl group
+saturated hydrocarbons hydrocarbons single covalent bonds carbons
+linear general formula wherein carbon atoms joined snake like structure branched general formula wherein carbon backbone splits one directions cyclic general formula wherein carbon backbone linked form loop
+according definition iupac former two alkanes whereas third group called cycloalkanes
+saturated hydrocarbons also combine linear cyclic polycyclic branching structures general formula number independent loops
+alkanes acyclic loopless ones corresponding
+butane isobutane two isomers cyclobutane two alkane isomers
+bicyclobutane bicyclo butane alkane alkane isomer tetrahedrane alkane alkane isomer
+tetrahedrane alkanes three carbon atoms arranged various ways forming structural isomers
+simplest isomer alkane one carbon atoms arranged single chain branches
+isomer sometimes called isomer normal although necessarily common
+however chain carbon atoms may also branched one points
+number possible isomers increases rapidly number carbon atoms
+example acyclic alkanes methane ethane propane isomers butane isobutane isomers pentane isopentane neopentane isomers hexane methylpentane methylpentane dimethylbutane dimethylbutane isomers heptane methylhexane isomers dimethylpentane isomers ethylpentane trimethylbutane isomers isomers isomers many stable
+branched alkanes chiral
+example methylhexane higher homologues chiral due stereogenic center carbon atom number
+list includes differences connectivity stereochemistry
+addition alkane isomers chain carbon atoms may form one rings
+compounds called cycloalkanes also excluded list changing number rings changes molecular formula
+cyclobutane isomers isomers butane
+iupac nomenclature systematic way naming compounds alkanes based identifying hydrocarbon chains
+unbranched saturated hydrocarbon chains named systematically greek numerical prefix denoting number carbons suffix ane
+august wilhelm von hofmann suggested systematizing nomenclature using whole sequence vowels create suffixes ane ene ine yne one une hydrocarbons
+first three name hydrocarbons single double triple bonds one represents ketone ol represents alcohol oh group oxy means ether refers oxygen two carbons methoxymethane iupac name dimethyl ether
+difficult impossible find compounds one iupac name
+shorter chains attached longer chains prefixes convention includes brackets
+numbers name referring carbon group attached low possible implied usually omitted names organic compounds one side group
+symmetric compounds two ways arriving name
+linear alkanes straight chain alkanes sometimes indicated prefix normal non linear isomer exists
+although strictly necessary usage still common cases important difference properties straight chain branched chain isomers hexane methylpentane
+alternative names group linear paraffins paraffins
+members series terms number carbon atoms named follows methane ch one carbon hydrogen ethane two carbon hydrogen propane three carbon hydrogen butane four carbon hydrogen pentane five carbon hydrogen hexane six carbon hydrogen first four names derived methanol ether propionic acid butyric acid respectively hexadecane also sometimes referred cetane
+alkanes five carbon atoms named adding suffix ane appropriate numerical multiplier prefix elision terminal vowel basic numerical term
+hence pentane hexane heptane octane etc
+prefix generally greek however alkanes carbon atom count ending nine example nonane use latin prefix non
+complete list see list alkanes
+branched alkanes ball stick model isopentane common name methylbutane iupac systematic name simple branched alkanes often common name using prefix distinguish linear alkanes example pentane isopentane neopentane
+iupac naming conventions used produce systematic name
+key steps naming complicated branched alkanes follows identify longest continuous chain carbon atoms name longest root chain using standard naming rules name side chain changing suffix name alkane ane yl number longest continuous chain order give lowest possible numbers side chains number name side chains name root chain multiple side chains type use prefixes di tri indicate number one
+add side chain names alphabetical disregarding di etc
+prefixes order front name root chain comparison nomenclatures three isomers common name pentane isopentane neopentane iupac name pentane methylbutane dimethylpropane structure px px px saturated cyclic hydrocarbons though technically distinct alkanes class hydrocarbons referred cyclic alkanes
+description implies contain one rings
+simple cycloalkanes prefix cyclo distinguish alkanes
+cycloalkanes named per acyclic counterparts respect number carbon atoms backbones cyclopentane cycloalkane carbon atoms like pentane joined five membered ring
+similar manner propane cyclopropane butane cyclobutane etc
+substituted cycloalkanes named similarly substituted alkanes cycloalkane ring stated substituents according position ring numbering decided cahn ingold prelog priority rules
+trivial common names trivial non systematic name alkanes paraffins
+together alkanes known paraffin series
+trivial names compounds usually historical artifacts
+coined development systematic names retained due familiar usage industry
+cycloalkanes also called naphthenes
+almost certain term paraffin stems petrochemical industry
+branched chain alkanes called isoparaffins
+use term paraffin general term often distinguish pure compounds mixtures isomers compounds chemical formula pentane isopentane
+iupac following trivial names retained iupac system isobutane methylpropane isopentane methylbutane neopentane dimethylpropane
+non iupac non iupac trivial names occasionally used cetane hexadecane cerane hexacosane
+alkanes colorless
+alkanes lowest molecular weights gasses intermediate molecular weight liquids heaviest waxy solids
+table alkanes alkane formula boiling point melting point density kg straight chain isomers methane ch gas ethane gas propane gas butane gas pentane liquid hexane liquid heptane liquid octane liquid nonane liquid decane liquid undecane liquid dodecane liquid tridecane liquid tetradecane liquid pentadecane liquid hexadecane liquid heptadecane solid octadecane solid nonadecane solid icosane solid triacontane solid tetracontane solid pentacontane solid hexacontane solid heptacontane solid boiling point melting blue boiling orange points first alkanes
+alkanes experience intermolecular van der waals forces
+stronger intermolecular van der waals forces give rise greater boiling points alkanes
+two determinants strength van der waals forces number electrons surrounding molecule increases alkane molecular weight surface area molecule standard conditions ch alkanes gaseous liquids solids
+boiling point alkanes primarily determined weight surprise boiling point almost linear relationship size molecular weight molecule
+rule thumb boiling point rises carbon added chain rule applies homologous series
+straight chain alkane boiling point higher branched chain alkane due greater surface area contact thus greater van der waals forces adjacent molecules
+example compare isobutane methylpropane butane butane boil dimethylbutane dimethylbutane boil respectively
+latter case two molecules dimethylbutane lock better cross shaped dimethylbutane hence greater van der waals forces
+hand cycloalkanes tend higher boiling points linear counterparts due locked conformations molecules give plane intermolecular contact
+melting points melting points alkanes follow similar trend boiling points reason outlined
+things equal larger molecule higher melting point
+one significant difference boiling points melting points
+solids rigid fixed structure liquids
+rigid structure requires energy break
+thus better put together solid structures require energy break apart
+alkanes seen graph blue line
+odd numbered alkanes lower trend melting points even numbered alkanes
+even numbered alkanes pack well solid phase forming well organized structure requires energy break apart
+odd numbered alkanes pack less well looser organized solid packing structure requires less energy break apart
+visualization crystal structures see
+melting points branched chain alkanes either higher lower corresponding straight chain alkanes depending ability alkane question pack well solid phase particularly true isoalkanes methyl isomers often melting points higher linear analogues
+conductivity solubility alkanes conduct electricity way substantially polarized electric field
+reason form hydrogen bonds insoluble polar solvents water
+since hydrogen bonds individual water molecules aligned away alkane molecule coexistence alkane water leads increase molecular order reduction entropy
+significant bonding water molecules alkane molecules second law thermodynamics suggests reduction entropy minimized minimizing contact alkane water alkanes said hydrophobic repel water
+solubility nonpolar solvents relatively high property called lipophilicity
+alkanes example miscible proportions among
+density alkanes usually increases number carbon atoms remains less water
+hence alkanes form upper layer alkane water mixture
+molecular geometry sp hybridization methane
+molecular structure alkanes directly affects physical chemical characteristics
+derived electron configuration carbon four valence electrons
+carbon atoms alkanes always sp hybridized say valence electrons said four equivalent orbitals derived combination orbital three orbitals
+orbitals identical energies arranged spatially form tetrahedron angle cos
+bond lengths bond angles alkane single bonds
+former result overlap sp orbital carbon orbital hydrogen latter overlap two sp orbitals adjacent carbon atoms
+bond lengths amount bond bond
+tetrahedral structure methane
+spatial arrangement bonds similar four sp orbitals tetrahedrally arranged angle
+structural formulae represent bonds right angles one another common useful correspond reality
+conformation structural formula bond angles usually sufficient completely describe geometry molecule
+degree freedom carbon carbon bond torsion angle atoms groups bound atoms end bond
+spatial arrangement described torsion angles molecule known conformation
+newman projections two conformations ethane eclipsed left staggered right
+ball stick models two rotamers ethane ethane forms simplest case studying conformation alkanes one bond
+one looks axis bond one see called newman projection
+hydrogen atoms front rear carbon atoms angle resulting projection base tetrahedron onto flat plane
+however torsion angle given hydrogen atom attached front carbon given hydrogen atom attached rear carbon vary freely
+consequence free rotation carbon carbon single bond
+despite apparent freedom two limiting conformations important eclipsed conformation staggered conformation
+two conformations differ energy staggered conformation kj mol lower energy stable eclipsed conformation least stable
+difference energy two conformations known torsion energy low compared thermal energy ethane molecule ambient temperature
+constant rotation bond
+time taken ethane molecule pass one staggered conformation next equivalent rotation one ch group relative order seconds
+case higher alkanes complex based similar principles antiperiplanar conformation always favored around carbon carbon bond
+reason alkanes usually shown zigzag arrangement diagrams models
+actual structure always differ somewhat idealized forms differences energy conformations small compared thermal energy molecules alkane molecules fixed structural form whatever models may suggest
+spectroscopic properties virtually organic compounds contain carbon carbon carbon hydrogen bonds show features alkanes spectra
+alkanes notable groups therefore absence characteristic spectroscopic features functional group like oh cho cooh etc
+infrared spectroscopy carbon hydrogen stretching mode gives strong absorption cm carbon carbon stretching mode absorbs cm
+carbon hydrogen bending modes depend nature group methyl groups show bands cm cm methylene groups show bands cm cm
+carbon chains four carbon atoms show weak absorption around cm
+nmr spectroscopy proton resonances alkanes usually found
+carbon resonances depend number hydrogen atoms attached carbon primary methyl ch secondary methylene ch tertiary methyne quaternary
+carbon resonance quaternary carbon atoms weak due lack nuclear overhauser effect long relaxation time missed weak samples samples run sufficiently long time
+mass spectrometry alkanes high ionization energy molecular ion usually weak
+fragmentation pattern difficult interpret case branched chain alkanes carbon chain preferentially cleaved tertiary quaternary carbons due relative stability resulting free radicals
+fragment resulting loss single methyl group often absent fragments often spaced intervals fourteen mass units corresponding sequential loss ch groups
+alkanes weakly reactive chemical compounds
+acid dissociation constant values alkanes estimated range depending extrapolation method hence extremely weak acids practically inert bases see carbon acids
+also extremely weak bases undergoing observable protonation pure sulfuric acid although superacids least millions times stronger known protonate give hypercoordinate alkanium ions see methanium ion
+similarly show reactivity strongest electrophilic reagents dioxiranes salts containing nf cation
+virtue strongly bonds kcal mol bonds kcal mol usually less sterically accessible also relatively unreactive toward free radicals although many electron deficient radicals react alkanes absence electron rich bonds see
+inertness source term paraffins meaning lacking affinity
+crude oil alkane molecules remained chemically unchanged millions years
+free radicals molecules unpaired electrons play large role reactions alkanes cracking reformation long chain alkanes converted shorter chain alkanes straight chain alkanes branched chain isomers
+moreover redox reactions alkanes involving free radical intermediates particular oxygen halogens possible carbon atoms strongly reduced state case methane carbon lowest possible oxidation state
+reaction oxygen present sufficient quantity satisfy reaction stoichiometry leads combustion without smoke producing carbon dioxide water
+free radical halogenation reactions occur halogens leading production haloalkanes
+addition alkanes shown interact bind certain transition metal complexes bond activation reactions
+highly branched alkanes bond angle may differ significantly optimal value accommodate bulky groups
+distortions introduce tension molecule known steric hindrance strain
+strain substantially increases reactivity
+however general perhaps surprisingly branching extensive enough make highly disfavorable alkyl alkyl steric interactions worth kcal mol kcal mol case eclipsing conformations butane pentane respectively unavoidable branched alkanes actually stable linear less branched isomers
+example highly branched kcal mol stable linear isomer octane
+due subtlety effect exact reasons rule vigorously debated chemical literature yet unsettled
+several explanations including stabilization branched alkanes electron correlation destabilization linear alkanes steric repulsion stabilization neutral electrostatic effects advanced possibilities
+controversy related question whether traditional explanation primary factor governing stability alkyl radicals
+reactions oxygen combustion reaction alkanes react oxygen combustion reaction although become increasingly difficult ignite number carbon atoms increases
+general equation complete combustion co co absence sufficient oxygen carbon monoxide even soot formed shown co example methane ch co ch co see alkane heat formation table detailed data
+standard enthalpy change combustion δc alkanes increases kj mol per ch group
+branched chain alkanes lower values δc straight chain alkanes number carbon atoms seen somewhat stable
+reactions halogens alkanes react halogens called free radical halogenation reaction
+hydrogen atoms alkane progressively replaced halogen atoms
+free radicals reactive species participate reaction usually leads mixture products
+reaction highly exothermic lead explosion
+reactions important industrial route halogenated hydrocarbons
+three steps initiation halogen radicals form homolysis
+usually energy form heat light required
+chain reaction propagation takes place halogen radical abstracts hydrogen alkane give alkyl radical
+reacts
+chain termination radicals recombine
+experiments shown halogenation produces mixture possible isomers indicating hydrogen atoms susceptible reaction
+mixture produced however statistical mixture secondary tertiary hydrogen atoms preferentially replaced due greater stability secondary tertiary free radicals
+example seen monobromination propane monobromination propane cracking cracking breaks larger molecules smaller ones
+done thermal catalytic method
+thermal cracking process follows homolytic mechanism formation free radicals
+catalytic cracking process involves presence acid catalysts usually solid acids silica alumina zeolites promote heterolytic asymmetric breakage bonds yielding pairs ions opposite charges usually carbocation unstable hydride anion
+carbon localized free radicals cations highly unstable undergo processes chain rearrangement scission position beta cracking intra intermolecular hydrogen transfer hydride transfer
+types processes corresponding reactive intermediates radicals ions permanently regenerated thus proceed self propagating chain mechanism
+chain reactions eventually terminated radical ion recombination
+isomerization reformation dragan colleague first report isomerization alkanes
+isomerization reformation processes straight chain alkanes heated presence platinum catalyst
+isomerization alkanes become branched chain isomers
+words lose carbons hydrogens keeping molecular weight
+reformation alkanes become cycloalkanes aromatic hydrocarbons giving hydrogen product
+processes raise octane number substance
+butane common alkane put process isomerization makes many branched alkanes high octane numbers
+reactions alkanes react steam presence nickel catalyst give hydrogen
+alkanes nitrated although reactions require special conditions
+fermentation alkanes carboxylic acids technical importance
+reed reaction sulfur dioxide chlorine light convert hydrocarbons sulfonyl chlorides
+nucleophilic abstraction used separate alkane metal
+alkyl groups transferred one compound another transmetalation reactions
+mixture antimony pentafluoride sbf fluorosulfonic acid hso called magic acid protonate alkanes
+occurrence alkanes universe methane ethane make tiny proportion jupiter atmosphere extraction oil contains many distinct hydrocarbons including alkanes alkanes form small portion atmospheres outer gas planets jupiter methane ppm ethane saturn methane ppm ethane uranus methane ppm ethane neptune methane ppm ethane
+titan methane satellite saturn examined huygens probe indicated titan atmosphere periodically rains liquid methane onto moon surface
+also titan cassini mission imaged seasonal methane ethane lakes near polar regions titan
+methane ethane also detected tail comet hyakutake
+chemical analysis showed abundances ethane methane roughly equal thought imply ices formed interstellar space away sun would evaporated volatile molecules
+alkanes also detected meteorites carbonaceous chondrites
+occurrence alkanes earth traces methane gas ppb occur earth atmosphere produced primarily methanogenic microorganisms archaea gut ruminants
+important commercial sources alkanes natural gas oil
+natural gas contains primarily methane ethane propane butane oil mixture liquid alkanes hydrocarbons
+hydrocarbons formed marine animals plants zooplankton phytoplankton died sank bottom ancient seas covered sediments anoxic environment converted many millions years high temperatures high pressure current form
+natural gas resulted thereby example following reaction ch co hydrocarbon deposits collected porous rocks trapped beneath impermeable cap rocks comprise commercial oil fields
+formed millions years exhausted cannot readily replaced
+depletion hydrocarbons reserves basis known energy crisis
+methane also present called biogas produced animals decaying matter possible renewable energy source
+alkanes low solubility water content oceans negligible however high pressures low temperatures bottom oceans methane co crystallize water form solid methane clathrate methane hydrate
+although cannot commercially exploited present time amount combustible energy known methane clathrate fields exceeds energy content natural gas oil deposits put together
+methane extracted methane clathrate therefore candidate future fuels
+biological occurrence acyclic alkanes occur nature various ways
+bacteria archaea methanogenic archaea gut cow responsible methane earth atmosphere
+certain types bacteria metabolize alkanes prefer even numbered carbon chains easier degrade odd numbered chains
+hand certain archaea methanogens produce large quantities methane metabolism carbon dioxide oxidized organic compounds
+energy released oxidation hydrogen co ch methanogens also producers marsh gas wetlands
+methane output cattle herbivores release gallons per day termites also due methanogens
+also produce simplest alkanes intestines humans
+methanogenic archaea hence end carbon cycle carbon released back atmosphere fixed photosynthesis
+probable current deposits natural gas formed similar way
+fungi plants alkanes also play role minor role biology three eukaryotic groups organisms fungi plants animals
+specialized yeasts candida tropicale pichia sp rhodotorula sp use alkanes source carbon energy
+fungus amorphotheca resinae prefers longer chain alkanes aviation fuel cause serious problems aircraft tropical regions
+plants solid long chain alkanes found plant cuticle epicuticular wax many species rarely major constituents
+protect plant water loss prevent leaching important minerals rain protect bacteria fungi harmful insects
+carbon chains plant alkanes usually odd numbered carbon atoms length made plants decarboxylation even numbered fatty acids
+exact composition layer wax species dependent changes also season environmental factors lighting conditions temperature humidity
+volatile short chain alkanes also produced found plant tissues
+jeffrey pine noted producing exceptionally high levels heptane resin reason distillate designated zero point one octane rating
+floral scents also long known contain volatile alkane components nonane significant component scent roses
+emission gaseous volatile alkanes ethane pentane hexane plants also documented low levels though generally considered major component biogenic air pollution
+edible vegetable oils also typically contain small fractions biogenic alkanes wide spectrum carbon numbers mainly usually peaking low upper concentrations dozens milligrams per kilogram parts per million weight sometimes hundred total alkane fraction
+animals alkanes found animal products although less important unsaturated hydrocarbons
+one example shark liver oil approximately pristane
+important pheromones chemical messenger materials insects depend communication
+species
+support beetle xylotrechus colonus pentacosane transferred body contact
+others like tsetse fly glossina morsitans morsitans pheromone contains four alkanes acts smell longer distances
+waggle dancing honey bees produce release two alkanes tricosane pentacosane
+ecological relations early spider orchid ophrys sphegodes one example plant animal alkanes play role ecological relationship sand bee andrena nigroaenea early spider orchid ophrys sphegodes latter dependent pollination former
+sand bees use pheromones order identify mate case
+nigroaenea females emit mixture tricosane pentacosane heptacosane ratio males attracted specifically odor
+orchid takes advantage mating arrangement get male bee collect disseminate pollen parts flower resemble appearance sand bees also produce large quantities three alkanes ratio female sand bees
+result numerous males lured blooms attempt copulate imaginary partner although endeavor crowned success bee allows orchid transfer pollen dispersed departure frustrated male blooms
+petroleum refining oil refinery martinez california
+stated earlier important source alkanes natural gas crude oil
+alkanes separated oil refinery fractional distillation processed many products
+fischer tropsch fischer tropsch process method synthesize liquid hydrocarbons including alkanes carbon monoxide hydrogen
+method used produce substitutes petroleum distillates
+laboratory preparation usually little need alkanes synthesized laboratory since usually commercially available
+also alkanes generally unreactive chemically biologically undergo functional group cleanly
+alkanes produced laboratory often side product reaction
+example use butyllithium strong base gives conjugate acid butane side product li lioh however times may desirable make section molecule alkane like functionality alkyl group using similar methods
+example ethyl group alkyl group attached hydroxy group gives ethanol alkane
+best known methods hydrogenation alkenes rch ch rch ch alkyl alkanes alkyl groups also prepared directly alkyl halides corey house posner whitesides reaction
+barton mccombie deoxygenation removes hydroxyl groups alcohols
+barton mccombie deoxygenation scheme clemmensen reduction removes carbonyl groups aldehydes ketones form alkanes alkyl substituted compounds
+clemmensen reduction
+alkanes prepared variety organic compounds include alkenes alkynes haloalkanes alcohols aldehydes ketones carboxylic acids
+alkenes alkynes alkenes alkynes subjected hydrogenation reaction treating hydrogen presence palladium platinum nickel catalyst produce alkanes
+reaction powdered catalyst preferred increase surface area adsorption hydrogen catalyst increases
+reaction hydrogen gets attached catalyst form hydrogen catalyst bond leads weakening bond thereby leading addition hydrogen alkenes alkynes
+reaction exothermic product alkane stable sigma bonds reactant alkenes alkynes due conversion pi bond sigma bonds
+haloalkanes alkanes produced haloalkanes using different methods
+wurtz reaction haloalkane treated sodium dry ether alkane double number carbon atoms obtained
+reaction proceeds free radical intermediate possibility alkene formation case tertiary haloalkanes vicinal dihalides
+corey house synthesis haloalkane treated dialkyl lithium cuprite otherwise known gilman reagent higher alkane obtained
+reaction metal hydride haloalkanes treated metal hydride eg sodium hydride lithium aluminium hydride
+frankland reaction haloalkane treated zinc ester alkane obtained
+fittig reaction aryl halide treated sodium dry ether forms biphenyl
+ullmann biaryl synthesis aryl halide treated copper forms biphenyl
+wurtz fittig reaction aryl halide treated haloalkane get alkyl benzene
+applications alkanes depend number carbon atoms
+first four alkanes used mainly heating cooking purposes countries electricity generation
+methane ethane main components natural gas normally stored gases pressure
+however easier transport liquids requires compression cooling gas
+propane butane gases atmospheric pressure liquefied fairly low pressures commonly known liquified petroleum gas lpg
+propane used propane gas burners fuel road vehicles butane space heaters disposable cigarette lighters
+used propellants aerosol sprays
+pentane octane alkanes highly volatile liquids
+used fuels internal combustion engines vaporize easily entry combustion chamber without forming droplets would impair uniformity combustion
+branched chain alkanes preferred much less prone premature ignition causes knocking straight chain homologues
+propensity premature ignition measured octane rating fuel isooctane arbitrary value heptane value zero
+apart use fuels middle alkanes also good solvents nonpolar substances
+alkanes nonane instance hexadecane alkane sixteen carbon atoms liquids higher viscosity less less suitable use gasoline
+form instead major part diesel aviation fuel
+diesel fuels characterized cetane number cetane old name hexadecane
+however higher melting points alkanes cause problems low temperatures polar regions fuel becomes thick flow correctly
+alkanes hexadecane upwards form important components fuel oil lubricating oil
+latter function work time anti corrosive agents hydrophobic nature means water cannot reach metal surface
+many solid alkanes find use paraffin wax example candles
+confused however true wax consists primarily esters
+alkanes chain length approximately carbon atoms found bitumen used example road surfacing
+however higher alkanes little value usually split lower alkanes cracking
+synthetic polymers polyethylene polypropylene alkanes chains containing hundreds thousands carbon atoms
+materials used innumerable applications billions kilograms materials made used year
+alkanes chemically inert apolar molecules reactive organic compounds
+inertness yields serious ecological issues released environment
+due lack functional groups low water solubility alkanes show poor bioavailability microorganisms
+however microorganisms possessing metabolic capacity utilize alkanes carbon energy sources
+bacterial species highly specialised degrading alkanes referred bacteria
+methane flammable explosive dangerous inhale colorless odorless gas special caution must taken around methane
+ethane also extremely flammable dangerous inhale explosive
+may cause suffocation
+similarly propane flammable explosive
+may cause drowsiness unconsciousness inhaled
+butane hazards consider propane
+alkanes also pose threat environment
+branched alkanes lower unbranched alkanes
+however methane ranked dangerous greenhouse gas
+although amount methane atmosphere low pose threat environment
+alkene alkyne cycloalkane higher alkanes
+virtual textbook organic chemistry visualization crystal structures alkanes nonan

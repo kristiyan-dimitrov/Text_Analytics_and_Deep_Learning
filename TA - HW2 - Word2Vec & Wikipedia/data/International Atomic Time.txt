@@ -1,0 +1,51 @@
+international atomic time tai french name high precision atomic coordinate time standard based notional passage proper time earth geoid
+principal realisation terrestrial time fixed offset epoch
+also basis coordinated universal time utc used civil timekeeping earth surface
+another leap second added tai exactly seconds ahead utc
+seconds results initial difference seconds start plus leap seconds utc since
+tai may reported using traditional means specifying days carried non uniform time standards based rotation earth
+specifically julian days gregorian calendar used
+tai form synchronised universal time beginning two drifted apart ever since due changing motion earth
+tai weighted average time kept atomic clocks national laboratories worldwide
+majority clocks involved caesium clocks international system units si definition second based caesium
+clocks compared using gps signals two way satellite time frequency transfer
+due signal averaging tai order magnitude stable best constituent clock
+participating institutions broadcast real time frequency signal timecodes estimate tai
+time codes usually published form utc differs tai well known integer number seconds
+time scales denoted form utc npl utc form npl case identifies national physical laboratory uk
+tai form may denoted tai npl
+latter confused ta npl denotes independent atomic time scale synchronised tai anything else
+clocks different institutions regularly compared
+international bureau weights measures bipm france combines measurements retrospectively calculate weighted average forms stable time scale possible
+combined time scale published monthly circular canonical tai
+time scale expressed form tables differences utc utc equivalent tai tai participating institution
+circular also gives tables tai ta various unsynchronised atomic time scales
+errors publication may corrected issuing revision faulty circular errata subsequent circular aside published circular tai scale revised
+hindsight possible discover errors tai make better estimates true proper time scale
+since published circulars definitive better estimates create another version tai instead considered creating better realisation terrestrial time tt
+early atomic time scales consisted quartz clocks frequencies calibrated single atomic clock atomic clocks operated continuously
+atomic timekeeping services started experimentally using first caesium atomic clock national physical laboratory uk npl
+used basis calibrating quartz clocks royal greenwich observatory establish time scale called greenwich atomic ga
+united states naval observatory began scale september using atomichron commercial atomic clock followed nbs scale national bureau standards boulder colorado october
+international time bureau bih began time scale tm july using local caesium clocks comparisons distant clocks using phase vlf radio signals
+bih scale nbs defined epoch beginning procedures used bih evolved name time scale changed ta bih
+si second defined terms caesium atom
+general conference weights measures international committee weights measures made series decisions designated bipm time scale international atomic time tai
+became clear clocks participating tai ticking different rates due gravitational time dilation combined tai scale therefore corresponded average altitudes various clocks
+starting julian date january corrections applied output participating clocks tai would correspond proper time mean sea level geoid
+clocks average well sea level meant tai slowed one part trillion
+former uncorrected time scale continues published name eal echelle atomique libre meaning free atomic scale
+instant gravitational correction started applied serves epoch barycentric coordinate time tcb geocentric coordinate time tcg terrestrial time tt represent three fundamental time scales solar system
+three time scales defined read jd january exactly instant
+tai henceforth realisation tt equation tt tai tai continued existence tai questioned letter bipm itu stated case redefinition utc without leap seconds cctf would consider discussing possibility suppressing tai would remain parallel continuous utc
+utc discontinuous time scale
+regularly adjusted leap seconds
+adjustments composed segments linear transformations atomic time
+beginning december adjustments made regularly fractional leap seconds utc approximated ut
+afterwards adjustments made whole seconds approximate ut
+compromise arrangement order enable publicly broadcast time scale post linear transformation bih atomic time meant time scale would stable easier synchronize internationally
+fact continues approximate ut means tasks navigation require source universal time continue well served public broadcast utc
+clock synchronization network time protocol precision time protocol time frequency transfer
+footnotes
+
+bureau international des poids et mesures tai time frequency section national physical laboratory uk iers website nist web clock faqs history time scales nist cesium fountain atomic clock japan standard time project nict japan standard time definition utc gps loran tai

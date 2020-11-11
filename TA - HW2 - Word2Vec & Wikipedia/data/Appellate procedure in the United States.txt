@@ -1,0 +1,153 @@
+court appeals washington united states appellate procedure involves rules regulations filing appeals state courts federal courts
+nature appeal vary greatly depending type case rules court jurisdiction case prosecuted
+many types standard review appeals de novo abuse discretion
+however appeals begin party files petition review higher court purpose overturning lower court decision
+appellate court court hears cases appeal another court
+depending particular legal rules apply circumstance party court case unhappy result might able challenge result appellate court specific grounds
+grounds typically could include errors law fact procedure due process
+different jurisdictions appellate courts also called appeals courts courts appeals superior courts supreme courts
+specific procedures appealing including even whether right appeal particular type decision vary greatly state state
+right file appeal also vary state state example new jersey constitution vests judicial power supreme court superior court courts limited jurisdiction appellate court part superior court
+party files appeal called appellant plaintiff error petitioner pursuer party side called appellee
+cross appeal appeal brought respondent
+example suppose trial judge found plaintiff ordered defendant pay
+defendant files appeal arguing pay money plaintiff might file cross appeal arguing defendant pay instead
+appellant party lost part claim lower court decision appealing higher court case reconsidered
+usually done basis lower court judge erred application law may also possible appeal basis court misconduct finding fact entirely unreasonable make evidence
+appellant new case either plaintiff claimant defendant third party intervenor respondent appellee lower case depending losing party
+winning party lower court however respondent
+unusual cases appellant victor court still appeal
+appellee party appeal lower court judgment favor
+appellee required respond petition oral arguments legal briefs appellant
+general appellee takes procedural posture lower court decision affirmed
+appeal right one guaranteed statute underlying constitutional legal principle
+appellate court cannot refuse listen appeal
+appeal leave permission requires appellant obtain leave appeal situation either lower court court may discretion grant refuse appellant demand appeal lower court decision
+supreme court review cases available court exercises discretion grants writ certiorari
+tort equity civil matters either party previous case may file appeal
+criminal matters however state prosecution generally appeal right
+due double jeopardy principle state prosecution may never appeal jury bench verdict acquittal
+jurisdictions state prosecution may appeal right trial court dismissal indictment whole part trial court granting defendant suppression motion
+likewise jurisdictions state prosecution may appeal issue law leave trial court appellate court
+ability prosecution appeal decision favor defendant varies significantly internationally
+parties must present grounds appeal heard
+convention law reports appellant named first
+mean defendant appeals name case law reports reverses cases twice appeals work way court hierarchy
+always true however
+federal courts parties names always stay order lower court appeal taken circuit courts appeals ordered appeal reaches supreme court
+many jurisdictions recognize two types appeals particularly criminal context
+first traditional direct appeal appellant files appeal next higher court review
+second collateral appeal post conviction petition petitioner appellant files appeal court first instance usually court tried case
+key distinguishing factor direct collateral appeals former occurs state courts latter federal courts
+relief post conviction rare often found capital violent felony cases
+typical scenario involves incarcerated defendant locating dna evidence demonstrating defendant actual innocence
+appellate review appellate review general term process courts appellate jurisdiction take jurisdiction matters decided lower courts
+distinguished judicial review refers court overriding constitutional statutory right determine legislative act administrative decision defective jurisdictional reasons may vary jurisdiction
+jurisdictions normal preferred way seeking appellate review filing appeal final judgment
+generally appeal judgment also allow appeal orders rulings made trial court course case
+orders cannot appealed right
+however certain critical interlocutory court orders denial request interim injunction order holding person contempt court appealed immediately although case may otherwise fully disposed
+two distinct forms appellate review direct collateral
+example criminal defendant may convicted state court lose direct appeal higher state appellate courts unsuccessful mount collateral action filing writ habeas corpus federal courts
+generally speaking direct appeal statutes afford defendants opportunity challenge merits judgment allege errors law fact
+
+collateral review hand provides independent civil inquiry validity conviction sentence generally limited challenges constitutional jurisdictional fundamental violations occurred trial
+graham borgen
+th cir
+
+slip op
+citation omitted
+anglo american common law courts appellate review lower court decisions may also obtained filing petition review prerogative writ certain cases
+corresponding right writ pure continental civil law legal systems though mixed systems quebec recognize prerogative writs
+direct appeal exhausting first appeal right defendants usually petition highest state court review decision
+appeal known direct appeal
+highest state court generally known supreme court exercises discretion whether review case
+direct appeal prisoner challenges grounds conviction based error occurred trial stage adjudicative process
+preservation issues appellant claim must usually preserved trial
+means defendant object error occurred trial
+constitutional claims great magnitude appellate courts might lenient review claim even preserved
+example connecticut applies following standard review unpreserved claims record adequate review alleged claim error claim constitutional magnitude alleging violation fundamental right alleged constitutional violation clearly exists clearly deprived defendant fair trial subject harmless error analysis state failed demonstrate harmlessness alleged constitutional violation beyond reasonable doubt
+state post conviction relief collateral appeal states post conviction relief process
+similar federal post conviction relief appellant petition court correct alleged fundamental errors corrected direct review
+typical claims might include ineffective assistance counsel actual innocence based new evidence
+proceedings normally separate direct appeal however states allow collateral relief sought direct appeal
+direct appeal conviction considered final
+appeal post conviction court proceeds direct appeal
+goes intermediate appellate court followed highest court
+petition granted appellant could released incarceration sentence could modified new trial could ordered
+habeas corpus
+notice appeal form document many cases required begin appeal
+form completed appellant appellant legal representative
+nature form vary greatly country country court court within country
+specific rules legal system dictate exactly appeal officially begun
+example appellant might file notice appeal appellate court court appeal taken
+courts samples notice appeal court web site
+new jersey example administrative office court promulgated form notice appeal use appellants though using exact form mandatory failure use jurisdictional defect provided pertinent information set forth whatever form notice appeal used
+deadline beginning appeal often short traditionally measured days months
+vary country country well within country depending specific rules force
+federal court system criminal defendants must file notice appeal within days entry either judgment order appealed right appeal forfeited
+generally speaking appellate court examines record evidence presented trial court law lower court applied decides whether decision legally sound
+appellate court typically deferential lower court findings fact whether defendant committed particular act unless clearly erroneous focus court application law facts whether act found court occurred fits legal definition issue
+appellate court finds defect affirms judgment
+appellate court find legal defect decision lower court may modify ruling correct defect may nullify reverse vacate whole decision part
+may addition send case back remand remit lower court proceedings remedy defect
+cases appellate court may review lower court decision de novo completely challenging even lower court findings fact
+might proper standard review example lower court resolved case granting pre trial motion dismiss motion summary judgment usually based upon written submissions trial court trial testimony
+another situation appeal way hearing
+certain jurisdictions permit certain appeals cause trial heard afresh appellate court
+sometimes appellate court finds defect procedure parties used filing appeal dismisses appeal without considering merits effect affirming judgment
+would happen example appellant waited long appellate court rules file appeal
+generally trial appellate court consideration record evidence presented trial court pre trial trial court proceedings reviewed unless appeal way hearing new evidence usually considered appeal rare instances example material evidence unavailable party significant reason prosecutorial misconduct
+systems appellate court consider written decision lower court together written evidence court relevant appeal
+systems appellate court normally consider record lower court
+cases record first certified lower court
+appellant opportunity present arguments granting appeal appellee respondent present arguments
+arguments parties appeal presented appellate lawyers represented pro se party engaged legal representation
+arguments presented written briefs sometimes oral argument court hearing
+hearings party allowed brief presentation appellate judges ask questions based review record submitted briefs
+adversarial system appellate courts power review lower court decisions unless party appeals
+therefore lower court ruled improper manner legal precedent judgment stand appealed even might overturned appeal
+united states legal system generally recognizes two types appeals trial de novo appeal record
+trial de novo usually available review informal proceedings conducted minor judicial tribunals proceedings provide procedural attributes formal judicial trial
+unchallenged decisions power settle minor legal disputes
+party dissatisfied finding tribunal one generally power request trial de novo court record
+proceeding issues evidence may developed newly though never heard one restricted evidence heard lower proceeding
+sometimes however decision lower proceeding admissible evidence thus helping curb frivolous appeals
+cases application trial de novo effectively erases prior trial never taken place
+supreme court virginia stated court repeatedly held effect appeal circuit court annul judgment inferior tribunal completely previous trial
+exception defendant appeals conviction crime multiple levels offenses convicted lesser offense appeal lesser offense conviction represents acquittal serious offenses
+trial charges circuit court violate double jeopardy principles
+
+
+subject limitation conviction district court offense lesser included one charged constitutes acquittal greater offense permitting trial de novo circuit court lesser included offense
+appeal record decision judicial proceeding appellant respondent bound base arguments wholly proceedings body evidence presented lower tribunal
+seeks prove higher court result desired result
+precedent case law figure prominently arguments
+order appeal succeed appellant must prove lower court committed reversible error impermissible action court acted cause result unjust would resulted court acted properly
+examples reversible error would erroneously instructing jury law applicable case permitting seriously improper argument attorney admitting excluding evidence improperly acting outside court jurisdiction injecting bias proceeding appearing juror misconduct etc
+failure formally object time one views improper action lower court may result affirmance lower court judgment grounds one preserve issue appeal objecting
+cases judge rather jury decided issues fact appellate court apply abuse discretion standard review
+standard appellate court gives deference lower court view evidence reverses decision clear abuse discretion
+usually defined decision outside bounds reasonableness
+hand appellate court normally gives less deference lower court decision issues law may reverse finds lower court applied wrong legal standard
+cases appellant may successfully argue law lower decision rendered otherwise invalid may convince higher court order new trial basis evidence earlier sought concealed recently discovered
+case new evidence must high probability presence absence would made material difference trial
+another issue suitable appeal criminal cases effective assistance counsel
+defendant convicted prove lawyer adequately handle case reasonable probability result trial would different lawyer given competent representation entitled new trial
+lawyer traditionally starts oral argument appellate court words may please court
+appeal heard mandate formal notice decision court appeal notice transmitted trial court filed clerk trial court constitutes final judgment case unless appeal court directed proceedings trial court
+mandate distinguished appeal court opinion sets legal reasoning decision
+jurisdictions mandate known remittitur
+result appeal affirmed reviewing court basically agrees result lower courts ruling
+reversed reviewing court basically disagrees result lower courts ruling overturns decision
+vacated reviewing court overturns lower courts ruling invalid without necessarily disagreeing
+case decided basis legal principle longer applies
+remanded reviewing court sends case back lower court
+multiple outcomes reviewing court affirm rulings reverse others remand case time
+remand required nothing left case
+generally speaking appellate court judgment provides final directive appeals courts matter appealed setting specificity court determination action appealed affirmed reversed remanded modified
+reviewing courts discretionary review may send case back without comment review improvidently granted
+words looking case chose say anything
+result case review improvidently granted effectively affirmed without extra higher court stamp approval
+appellate court appellee civil procedure court appeals courts martial united states criminal procedure defendant en banc interlocutory appeal list legal topics list wrongful convictions united states petition stay plaintiff pursuer reversible error supreme court united states writ certiorari writ habeas corpus writ mandamus
+

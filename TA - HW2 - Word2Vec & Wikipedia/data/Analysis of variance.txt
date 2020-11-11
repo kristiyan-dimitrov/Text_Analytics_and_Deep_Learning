@@ -1,0 +1,323 @@
+analysis variance anova collection statistical models associated estimation procedures variation among groups used analyze differences among group means sample
+anova developed statistician ronald fisher
+anova based law total variance observed variance particular variable partitioned components attributable different sources variation
+simplest form anova provides statistical test whether two population means different therefore generalizes test beyond two means
+analysis variance reached fruition th century antecedents extend centuries past according stigler
+include hypothesis testing partitioning sums squares experimental techniques additive model
+laplace performing hypothesis testing
+around laplace gauss developed least squares method combining observations improved upon methods used astronomy geodesy
+also initiated much study contributions sums squares
+laplace knew estimate variance residual rather total sum squares
+laplace using least squares methods address anova problems regarding measurements atmospheric tides
+astronomers isolated observational errors resulting reaction times personal equation developed methods reducing errors
+experimental methods used study personal equation later accepted emerging field psychology developed strong full factorial experimental methods randomization blinding soon added
+eloquent non mathematical explanation additive effects model available
+ronald fisher introduced term variance proposed formal analysis article correlation relatives supposition mendelian inheritance
+first application analysis variance published
+analysis variance became widely known included fisher book statistical methods research workers
+randomization models developed several researchers
+first published polish jerzy neyman
+one attributes anova ensured early popularity computational elegance
+structure additive model allows solution additive coefficients simple algebra rather matrix calculations
+era mechanical calculators simplicity critical
+determination statistical significance also required access tables function supplied early statistics texts
+fit young vs old short haired vs long haired fair fit pet vs working breed less athletic vs athleticvery good fit weight breedthe analysis variance used exploratory tool explain observations
+dog show provides example
+dog show random sampling breed typically limited dogs adult pure bred exemplary
+histogram dog weights show might plausibly rather complex like yellow orange distribution shown illustrations
+suppose wanted predict weight dog based certain set characteristics dog
+one way explain distribution weights dividing dog population groups based characteristics
+successful grouping split dogs group low variance dog weights meaning group relatively homogeneous mean group distinct two groups mean reasonable conclude groups fact separate meaningful way
+illustrations right groups identified etc
+first illustration dogs divided according product interaction two binary groupings young vs old short haired vs long haired group young short haired dogs group young long haired dogs etc
+since distributions dog weight within groups shown blue relatively large variance since means similar across groups grouping dogs characteristics produce effective way explain variation dog weights knowing group dog allow us predict weight much better simply knowing dog dog show
+thus grouping fails explain variation overall distribution yellow orange
+attempt explain weight distribution grouping dogs pet vs working breed less athletic vs athletic would probably somewhat successful fair fit
+heaviest show dogs likely big strong working breeds breeds kept pets tend smaller thus lighter
+shown second illustration distributions variances considerably smaller first case means distinguishable
+however significant overlap distributions example means cannot distinguish reliably
+grouping dogs according coin flip might produce distributions look similar
+attempt explain weight breed likely produce good fit
+chihuahuas light st bernards heavy
+difference weights setters pointers justify separate breeds
+analysis variance provides formal tools justify intuitive judgments
+common use method analysis experimental data development models
+method advantages correlation data must numeric one result method judgment confidence explanatory relationship
+anova form statistical hypothesis testing heavily used analysis experimental data
+test result calculated null hypothesis sample called statistically significant deemed unlikely occurred chance assuming truth null hypothesis
+statistically significant result probability value less pre specified threshold significance level justifies rejection null hypothesis priori probability null hypothesis high
+typical application anova null hypothesis groups random samples population
+example studying effect different treatments similar samples patients null hypothesis would treatments effect perhaps none
+rejecting null hypothesis taken mean differences observed effects treatment groups unlikely due random chance
+construction hypothesis testing limits rate type errors false positives significance level
+experimenters also wish limit type ii errors false negatives
+rate type ii errors depends largely sample size rate larger smaller samples significance level standard proof high chances overlooking discovery also high effect size smaller effect size prone type ii error
+terminology anova largely statistical design experiments
+experimenter adjusts factors measures responses attempt determine effect
+factors assigned experimental units combination randomization blocking ensure validity results
+blinding keeps weighing impartial
+responses show variability partially result effect partially random error
+anova synthesis several ideas used multiple purposes
+consequence difficult define concisely precisely
+classical anova balanced data three things short anova statistical tool used several ways develop confirm explanation observed data
+additionally result anova long enjoyed status used would say abused statistical technique psychological research
+anova probably useful technique field statistical inference
+anova difficult teach particularly complex experiments split plot designs notorious
+cases proper application method best determined problem pattern recognition followed consultation classic authoritative test
+design experiments terms condensed nist engineering statistics handbook section
+glossary doe terminology
+balanced design experimental design cells
+treatment combinations number observations
+blocking schedule conducting treatment combinations experimental study effects experimental results due known change raw materials operators machines etc become concentrated levels blocking variable
+reason blocking isolate systematic effect prevent obscuring main effects
+blocking achieved restricting randomization
+design set experimental runs allows fit particular model estimate effects
+doe design experiments
+approach problem solving involving collection data support valid defensible supportable conclusions
+effect changing settings factor changes response
+effect single factor also called main effect
+error unexplained variation collection observations
+doe typically require understanding random error lack fit error
+experimental unit entity specific treatment combination applied
+factors process inputs investigator manipulates cause change output
+lack fit error error occurs analysis omits one important terms factors process model
+including replication doe allows separation experimental error components lack fit random pure error
+model mathematical relationship relates changes given response changes one factors
+random error error occurs due natural variation process
+random error typically assumed normally distributed zero mean constant variance
+random error also called experimental error
+randomization schedule allocating treatment material conducting treatment combinations doe conditions one run neither depend conditions previous run predict conditions subsequent runs
+replication performing treatment combination
+including replication allows estimate random error independent lack fit error
+responses output process
+sometimes called dependent variable
+treatment treatment specific combination factor levels whose effect compared treatments
+three classes models used analysis variance outlined
+fixed effects models fixed effects model class analysis variance applies situations experimenter applies one treatments subjects experiment see whether response variable values change
+allows experimenter estimate ranges response variable values treatment would generate population whole
+random effects models random effects model class ii used treatments fixed
+occurs various factor levels sampled larger population
+levels random variables assumptions method contrasting treatments multi variable generalization simple differences differ fixed effects model
+mixed effects models mixed effects model class iii contains experimental factors fixed random effects types appropriately different interpretations analysis two types
+example teaching experiments could performed college university department find good introductory textbook text considered treatment
+fixed effects model would compare list candidate texts
+random effects model would determine whether important differences exist among list randomly selected texts
+mixed effects model would compare fixed incumbent texts randomly selected alternatives
+defining fixed random effects proven elusive competing definitions arguably leading toward linguistic quagmire
+analysis variance studied several approaches common uses linear model relates response treatments blocks
+note model linear parameters may nonlinear across factor levels
+interpretation easy data balanced across factors much deeper understanding needed unbalanced data
+textbook analysis using normal distribution analysis variance presented terms linear model makes following assumptions probability distribution responses independence observations assumption model simplifies statistical analysis
+normality distributions residuals normal
+equality homogeneity variances called variance data groups
+separate assumptions textbook model imply errors independently identically normally distributed fixed effects models errors independent randomization based analysis randomized controlled experiment treatments randomly assigned experimental units following experimental protocol
+randomization objective declared experiment carried
+objective random assignment used test significance null hypothesis following ideas peirce ronald fisher
+design based analysis discussed developed francis anscombe rothamsted experimental station oscar kempthorne iowa state university
+kempthorne students make assumption unit treatment additivity discussed books kempthorne david cox
+unit treatment additivity simplest form assumption unit treatment additivity states observed response experimental unit receiving treatment written sum unit response treatment effect assumption unit treatment additivity implies every treatment th treatment exactly effect every experiment unit
+assumption unit treatment additivity usually cannot directly falsified according cox kempthorne
+however many consequences treatment unit additivity falsified
+randomized experiment assumption unit treatment additivity implies variance constant treatments
+therefore contraposition necessary condition unit treatment additivity variance constant
+use unit treatment additivity randomization similar design based inference standard finite population survey sampling
+derived linear model kempthorne uses randomization distribution assumption unit treatment additivity produce derived linear model similar textbook model discussed previously
+test statistics derived linear model closely approximated test statistics appropriate normal linear model according approximation theorems simulation studies
+however differences
+example randomization based analysis results small strictly negative correlation observations
+randomization based analysis assumption normal distribution certainly assumption independence
+contrary observations dependent
+randomization based analysis disadvantage exposition involves tedious algebra extensive time
+since randomization based analysis complicated closely approximated approach using normal linear model teachers emphasize normal linear model approach
+statisticians object model based analysis balanced randomized experiments
+statistical models observational data however applied data non randomized experiments observational studies model based analysis lacks warrant randomization
+observational data derivation confidence intervals must use subjective models emphasized ronald fisher followers
+practice estimates treatment effects observational studies generally often inconsistent
+practice statistical models observational data useful suggesting hypotheses treated cautiously public
+summary assumptions normal model based anova analysis assumes independence normality homogeneity variances residuals
+randomization based analysis assumes homogeneity variances residuals consequence unit treatment additivity uses randomization procedure experiment
+analyses require assumption normal model analysis consequence randomization additivity randomization based analysis
+however studies processes change variances rather means called dispersion effects successfully conducted using anova
+necessary assumptions anova full generality test used anova hypothesis testing assumptions practical limitations continuing interest
+problems satisfy assumptions anova often transformed satisfy assumptions
+property unit treatment additivity invariant change scale statisticians often use transformations achieve unit treatment additivity
+response variable expected follow parametric family probability distributions statistician may specify protocol experiment observational study responses transformed stabilize variance
+also statistician may specify logarithmic transforms applied responses believed follow multiplicative model
+according cauchy functional equation theorem logarithm continuous transformation transforms real multiplication addition
+anova used analysis comparative experiments difference outcomes interest
+statistical significance experiment determined ratio two variances
+ratio independent several possible alterations experimental observations adding constant observations alter significance
+multiplying observations constant alter significance
+anova statistical significance result independent constant bias scaling errors well units used expressing observations
+era mechanical calculation common subtract constant observations equivalent dropping leading digits simplify data entry
+example data coding
+calculations anova characterized computing number means variances dividing two variances comparing ratio handbook value determine statistical significance
+calculating treatment effect trivial effect treatment estimated taking difference mean observations receive treatment general mean
+partitioning sum squares anova uses traditional standardized terminology
+definitional equation sample variance divisor called degrees freedom df summation called sum squares ss result called mean square ms squared terms deviations sample mean
+anova estimates sample variances total variance based observation deviations grand mean error variance based observation deviations appropriate treatment means treatment variance
+treatment variance based deviations treatment means grand mean result multiplied number observations treatment account difference variance observations variance means
+fundamental technique partitioning total sum squares ss components related effects used model
+example model simplified anova one type treatment different levels
+number degrees freedom df partitioned similar way one components error specifies chi squared distribution describes associated sum squares true treatments treatment effect
+see also lack fit sum squares
+test test used comparing factors total deviation
+example one way single factor anova statistical significance tested comparing test statistic ms mean square number treatments total number cases distribution degrees freedom
+using distribution natural candidate test statistic ratio two scaled sums squares follows scaled chi squared distribution
+expected value treatment sample size treatment effect
+values increase evidence increasingly inconsistent null hypothesis
+two apparent experimental methods increasing increasing sample size reducing error variance tight experimental controls
+two methods concluding anova hypothesis test produce result textbook method compare observed value critical value determined tables
+critical value function degrees freedom numerator denominator significance level
+fcritical null hypothesis rejected
+computer method calculates probability value value greater equal observed value
+null hypothesis rejected probability less equal significance level
+anova test known nearly optimal sense minimizing false negative errors fixed rate false positive errors
+maximizing power fixed significance level
+example test hypothesis various medical treatments exactly effect test values closely approximate permutation test values approximation particularly close design balanced
+permutation tests characterize tests maximum power alternative hypotheses observed rosenbaum
+anova test null hypothesis treatments exactly effect recommended practical test robustness many alternative distributions
+extended logic anova consists separable parts partitioning sources variance hypothesis testing used individually
+anova used support statistical tools
+regression first used fit complex models data anova used compare models objective selecting simple models adequately describe data
+models could fit without reference anova anova tools could used make sense fitted models test hypotheses batches coefficients
+think analysis variance way understanding structuring multilevel models alternative regression tool summarizing complex high dimensional inferences
+simplest experiment suitable anova analysis completely randomized experiment single factor
+complex experiments single factor involve constraints randomization include completely randomized blocks latin squares variants graeco latin squares etc
+complex experiments share many complexities multiple factors
+relatively complete discussion analysis models data summaries anova table completely randomized experiment available
+anova generalizes study effects multiple factors
+experiment includes observations combinations levels factor termed factorial
+factorial experiments efficient series single factor experiments efficiency grows number factors increases
+consequently factorial designs heavily used
+use anova study effects multiple factors complication
+way anova factors anova model includes terms main effects terms interactions xy xz yz xyz
+terms require hypothesis tests
+proliferation interaction terms increases risk hypothesis test produce false positive chance
+fortunately experience says high order interactions rare
+ability detect interactions major advantage multiple factor anova
+testing one factor time hides interactions produces apparently inconsistent experimental results
+caution advised encountering interactions test interaction terms first expand analysis beyond anova interactions found
+texts vary recommendations regarding continuation anova procedure encountering interaction
+interactions complicate interpretation experimental data
+neither calculations significance estimated treatment effects taken face value
+significant interaction often mask significance main effects
+graphical methods recommended enhance understanding
+regression often useful
+lengthy discussion interactions available cox
+interactions removed transformations others cannot
+variety techniques used multiple factor anova reduce expense
+one technique used factorial designs minimize replication possibly replication support analytical trickery combine groups effects found statistically practically insignificant
+experiment many insignificant factors may collapse one factors supported many replications
+numerous fully worked numerical examples available standard textbooks online
+simple case uses one way single factor analysis
+analysis required support design experiment analysis performed changes factors formally found produce statistically significant changes responses
+experimentation iterative results one experiment alter plans following experiments
+preparatory analysis number experimental units design experiment number experimental units planned satisfy goals experiment
+experimentation often sequential
+early experiments often designed provide mean unbiased estimates treatment effects experimental error
+later experiments often designed test hypothesis treatment effect important magnitude case number experimental units chosen experiment within budget adequate power among goals
+reporting sample size analysis generally required psychology
+provide information sample size process led sample size decisions
+analysis written experimental protocol experiment conducted examined grant applications administrative review boards
+besides power analysis less formal methods selecting number experimental units
+include graphical methods based limiting probability false negative errors graphical methods based expected variation increase residuals methods based achieving desired confidence interval
+power analysis power analysis often applied context anova order assess probability successfully rejecting null hypothesis assume certain anova design effect size population sample size significance level
+power analysis assist study design determining sample size would required order reasonable chance rejecting null hypothesis alternative hypothesis true
+effect size several standardized measures effect proposed anova summarize strength association predictor dependent variable overall standardized difference complete model
+standardized effect size estimates facilitate comparison findings across studies disciplines
+however standardized effect sizes commonly used much professional literature non standardized measure effect size immediately meaningful units may preferable reporting purposes
+follow analysis always appropriate carefully consider outliers
+impact statistical conclusions often result errors
+model confirmation prudent verify assumptions anova met
+residuals examined analyzed confirm gross normality
+residuals appearance zero mean normal distribution noise plotted function anything including time modeled data values
+trends hint interactions among factors among observations
+one rule thumb largest standard deviation less twice smallest standard deviation use methods based assumption equal standard deviations results still approximately correct
+follow tests statistically significant effect anova often followed one different follow tests
+done order assess groups different groups test various focused hypotheses
+follow tests often distinguished terms whether planned priori post hoc
+planned tests determined looking data post hoc tests performed looking data
+often one treatments none treatment group act control
+dunnett test modification test tests whether treatment groups mean control
+post hoc tests tukey range test commonly compare every group mean every group mean typically incorporate method controlling type errors
+comparisons commonly planned either simple compound
+simple comparisons compare one group mean one group mean
+compound comparisons typically compare two sets groups means one set two groups compare average group means group group
+comparisons also look tests trend linear quadratic relationships independent variable involves ordered levels
+following anova pair wise multiple comparison tests criticized several grounds
+many tests one table recommendations regarding use vague conflicting
+several types anova
+many statisticians base anova design experiment especially protocol specifies random assignment treatments subjects protocol description assignment mechanism include specification structure treatments blocking
+also common apply anova observational data using appropriate statistical model
+popular designs use following types anova one way anova used test differences among two independent groups means
+different levels urea application crop different levels antibiotic action several different bacterial species different levels effect medicine groups patients
+however groups independent order groups mild moderate severe disease dose drug mg ml mg ml mg ml given group patients linear trend estimation used
+typically however one way anova used test differences among least three groups since two group case covered test
+two means compare test anova test equivalent relation anova given
+factorial anova used experimenter wants study interaction effects among treatments
+repeated measures anova used subjects used treatment longitudinal study
+multivariate analysis variance manova used one response variable
+balanced experiments equal sample size treatment relatively easy interpret unbalanced experiments offer complexity
+single factor one way anova adjustment unbalanced data easy unbalanced analysis lacks robustness power
+complex designs lack balance leads complications
+orthogonality property main effects interactions present balanced data carry unbalanced case
+means usual analysis variance techniques apply
+consequently analysis unbalanced factorials much difficult balanced designs
+general case analysis variance also applied unbalanced data sums squares mean squares ratios depend order sources variation considered
+simplest techniques handling unbalanced data restore balance either throwing data synthesizing missing data
+complex techniques use regression
+anova part test statistical significance
+american psychological association many organisations holds view simply reporting statistical significance insufficient reporting confidence bounds preferred
+anova conservative maintaining significance level multiple comparisons one dimension conservative comparisons multiple dimensions
+common mistake use anova kruskal wallis analysis ordered groups
+time sequence changes months disease severity mild moderate severe distance set point km km km
+data three ordered groups defined researcher analysed linear trend estimation
+anova considered special case linear regression turn special case general linear model
+consider observations sum model fit residual error minimized
+kruskal wallis test friedman test nonparametric tests rely assumption normality
+connection linear regression make clear connection multi way anova linear regression
+linearly order data observation associated response factors denotes different factors total number factors
+one way anova two way anova
+furthermore assume factor levels namely
+one hot encode factors dimensional vector
+one hot encoding function defined entry vector concatenation vectors
+thus
+order obtain fully general way interaction anova must also concatenate every additional interaction term vector add intercept term
+let vector
+notation place exact connection linear regression
+simply regress response vector
+however concern identifiability
+order overcome issues assume sum parameters within set interactions equal zero
+one use statistics methods determine relevance individual factors
+example consider way interaction example assume first factor levels second factor levels
+define
+one hot encoding first factor one hot encoding second factor
+last term intercept term
+concrete example suppose
+one way analysis variance one way anova two way analysis variance two way anova anova ranks anova simultaneous component analysis analysis covariance ancova analysis molecular variance amova analysis rhythmic variance anorva explained variation linear trend estimation mixed design analysis variance multivariate analysis variance manova multivariate analysis covariance mancova permutational analysis variance repeated measures anova variance decomposition expected mean squares
+pre publication chapters available line
+cohen jacob
+statistical power analysis behavior sciences nd ed
+routledge cox david
+planning experiments
+reprinted freedman david
+statistical models theory practice cambridge university press
+lehmann testing statistical hypotheses
+john wiley sons
+moore david mccabe george
+introduction practice statistics
+freeman co rosenbaum paul
+observational studies nd ed
+new york springer verlag
+
+cox david reid nancy
+theory design experiments
+chapman hall crc
+freedman david pisani robert purves roger statistics th edition
+norton company tabachnick barbara fidell linda
+using multivariate statistics th ed
+boston pearson international edition
+
+socr anova activity examples anova ancova models three treatment factors including randomized block split plot repeated measures latin squares analysis university southampton nist sematech handbook statistical methods section means equal
+analysis variance introduction
